@@ -1,0 +1,1153 @@
+country_code,category,statistic,2000,2001,2002,2003,2004,2005,2006,2007,2008,2009,2010,2011,2012,2013,2014,2015
+AFG,Rural,Population using at least basic sanitation services (%),22.0,22.0,23.0,23.0,24.0,25.0,26.0,27.0,27.0,28.0,29.0,30.0,31.0,31.0,32.0,33.0
+AFG,Urban,Population using at least basic sanitation services (%),31.0,31.0,33.0,35.0,37.0,38.0,40.0,42.0,44.0,46.0,47.0,49.0,51.0,53.0,55.0,56.0
+AFG,Total,Population using at least basic sanitation services (%),24.0,24.0,25.0,26.0,27.0,28.0,29.0,30.0,31.0,32.0,34.0,35.0,36.0,37.0,38.0,39.0
+AFG,Rural,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+AFG,Urban,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+AFG,Total,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+ALB,Rural,Population using at least basic sanitation services (%),82.0,83.0,84.0,85.0,86.0,88.0,89.0,90.0,91.0,92.0,93.0,94.0,95.0,96.0,97.0,97.0
+ALB,Urban,Population using at least basic sanitation services (%),97.0,97.0,97.0,97.0,97.0,97.0,98.0,98.0,98.0,98.0,98.0,98.0,98.0,98.0,98.0,98.0
+ALB,Total,Population using at least basic sanitation services (%),88.0,89.0,90.0,91.0,91.0,92.0,93.0,94.0,94.0,95.0,96.0,96.0,97.0,97.0,98.0,98.0
+ALB,Rural,Population using safely managed sanitation services (%),48.0,49.0,50.0,51.0,53.0,54.0,55.0,56.0,57.0,58.0,60.0,61.0,62.0,63.0,64.0,64.0
+ALB,Urban,Population using safely managed sanitation services (%),64.0,64.0,64.0,64.0,64.0,65.0,65.0,65.0,65.0,65.0,65.0,65.0,65.0,65.0,65.0,65.0
+ALB,Total,Population using safely managed sanitation services (%),55.0,55.0,56.0,57.0,58.0,59.0,60.0,60.0,61.0,62.0,62.0,63.0,64.0,64.0,65.0,65.0
+DZA,Rural,Population using at least basic sanitation services (%),72.0,73.0,74.0,74.0,75.0,76.0,76.0,77.0,78.0,78.0,79.0,80.0,80.0,81.0,82.0,82.0
+DZA,Urban,Population using at least basic sanitation services (%),91.0,91.0,91.0,91.0,91.0,91.0,91.0,91.0,90.0,90.0,90.0,90.0,90.0,90.0,90.0,90.0
+DZA,Total,Population using at least basic sanitation services (%),84.0,84.0,84.0,85.0,85.0,85.0,86.0,86.0,86.0,86.0,87.0,87.0,87.0,87.0,87.0,87.0
+DZA,Rural,Population using safely managed sanitation services (%),24.0,24.0,24.0,24.0,24.0,24.0,24.0,24.0,24.0,24.0,24.0,24.0,24.0,24.0,24.0,24.0
+DZA,Urban,Population using safely managed sanitation services (%),19.0,19.0,19.0,19.0,19.0,19.0,18.0,18.0,18.0,18.0,18.0,18.0,17.0,17.0,17.0,17.0
+DZA,Total,Population using safely managed sanitation services (%),21.0,21.0,21.0,21.0,21.0,21.0,20.0,20.0,20.0,20.0,20.0,20.0,20.0,19.0,19.0,19.0
+AND,Rural,Population using at least basic sanitation services (%),100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+AND,Urban,Population using at least basic sanitation services (%),100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+AND,Total,Population using at least basic sanitation services (%),100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+AND,Rural,Population using safely managed sanitation services (%),6.0,15.0,24.0,33.0,42.0,51.0,60.0,68.0,77.0,86.0,95.0,100.0,100.0,100.0,100.0,100.0
+AND,Urban,Population using safely managed sanitation services (%),6.0,15.0,24.0,33.0,42.0,51.0,60.0,68.0,77.0,86.0,95.0,100.0,100.0,100.0,100.0,100.0
+AND,Total,Population using safely managed sanitation services (%),6.0,15.0,24.0,33.0,42.0,51.0,60.0,68.0,77.0,86.0,95.0,100.0,100.0,100.0,100.0,100.0
+AGO,Rural,Population using at least basic sanitation services (%),8.0,8.0,9.0,10.0,11.0,12.0,13.0,14.0,15.0,16.0,17.0,18.0,19.0,20.0,20.0,21.0
+AGO,Urban,Population using at least basic sanitation services (%),48.0,49.0,49.0,50.0,51.0,52.0,53.0,54.0,55.0,56.0,57.0,58.0,59.0,60.0,61.0,62.0
+AGO,Total,Population using at least basic sanitation services (%),20.0,22.0,23.0,24.0,25.0,27.0,28.0,29.0,31.0,32.0,33.0,34.0,36.0,37.0,38.0,39.0
+AGO,Rural,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+AGO,Urban,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+AGO,Total,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+ATG,Rural,Population using at least basic sanitation services (%),,,,,,,,,,,,,,,,
+ATG,Urban,Population using at least basic sanitation services (%),,,,,,,,,,,,,,,,
+ATG,Total,Population using at least basic sanitation services (%),82.0,83.0,83.0,84.0,84.0,84.0,85.0,85.0,86.0,86.0,86.0,87.0,87.0,88.0,88.0,88.0
+ATG,Rural,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+ATG,Urban,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+ATG,Total,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+ARG,Rural,Population using at least basic sanitation services (%),97.0,96.0,96.0,96.0,96.0,95.0,95.0,95.0,95.0,94.0,94.0,94.0,94.0,94.0,94.0,94.0
+ARG,Urban,Population using at least basic sanitation services (%),95.0,95.0,95.0,95.0,95.0,95.0,95.0,95.0,95.0,95.0,95.0,95.0,95.0,95.0,95.0,95.0
+ARG,Total,Population using at least basic sanitation services (%),95.0,95.0,95.0,95.0,95.0,95.0,95.0,95.0,95.0,95.0,95.0,95.0,95.0,95.0,95.0,95.0
+ARG,Rural,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+ARG,Urban,Population using safely managed sanitation services (%),27.0,26.0,26.0,26.0,26.0,26.0,26.0,26.0,26.0,26.0,26.0,26.0,26.0,26.0,25.0,25.0
+ARG,Total,Population using safely managed sanitation services (%),29.0,29.0,28.0,28.0,28.0,28.0,28.0,28.0,28.0,27.0,27.0,27.0,27.0,27.0,27.0,26.0
+ARM,Rural,Population using at least basic sanitation services (%),82.0,82.0,82.0,82.0,82.0,82.0,82.0,82.0,83.0,83.0,83.0,83.0,83.0,83.0,83.0,83.0
+ARM,Urban,Population using at least basic sanitation services (%),95.0,95.0,95.0,95.0,96.0,96.0,96.0,96.0,96.0,96.0,96.0,96.0,96.0,96.0,96.0,96.0
+ARM,Total,Population using at least basic sanitation services (%),90.0,90.0,91.0,91.0,91.0,91.0,91.0,91.0,91.0,91.0,91.0,91.0,91.0,91.0,92.0,92.0
+ARM,Rural,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+ARM,Urban,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+ARM,Total,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+AUS,Rural,Population using at least basic sanitation services (%),,,,,,,,,,,,,,,,
+AUS,Urban,Population using at least basic sanitation services (%),,,,,,,,,,,,,,,,
+AUS,Total,Population using at least basic sanitation services (%),100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+AUS,Rural,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+AUS,Urban,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+AUS,Total,Population using safely managed sanitation services (%),65.0,65.0,65.0,65.0,65.0,66.0,67.0,68.0,69.0,69.0,70.0,71.0,72.0,73.0,73.0,74.0
+AUT,Rural,Population using at least basic sanitation services (%),100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+AUT,Urban,Population using at least basic sanitation services (%),100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+AUT,Total,Population using at least basic sanitation services (%),100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+AUT,Rural,Population using safely managed sanitation services (%),92.0,92.0,92.0,92.0,92.0,92.0,92.0,92.0,92.0,92.0,92.0,92.0,92.0,92.0,92.0,92.0
+AUT,Urban,Population using safely managed sanitation services (%),99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0
+AUT,Total,Population using safely managed sanitation services (%),97.0,97.0,97.0,97.0,97.0,97.0,97.0,97.0,97.0,97.0,97.0,97.0,97.0,97.0,97.0,97.0
+AZE,Rural,Population using at least basic sanitation services (%),54.0,56.0,58.0,60.0,62.0,65.0,67.0,69.0,71.0,73.0,76.0,78.0,80.0,82.0,84.0,87.0
+AZE,Urban,Population using at least basic sanitation services (%),77.0,78.0,79.0,80.0,81.0,82.0,83.0,84.0,85.0,86.0,87.0,88.0,89.0,90.0,91.0,92.0
+AZE,Total,Population using at least basic sanitation services (%),66.0,67.0,69.0,70.0,72.0,74.0,75.0,77.0,78.0,80.0,82.0,83.0,85.0,86.0,88.0,89.0
+AZE,Rural,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+AZE,Urban,Population using safely managed sanitation services (%),71.0,72.0,72.0,72.0,73.0,73.0,73.0,73.0,73.0,73.0,73.0,73.0,73.0,73.0,73.0,73.0
+AZE,Total,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+BHS,Rural,Population using at least basic sanitation services (%),,,,,,,,,,,,,,,,
+BHS,Urban,Population using at least basic sanitation services (%),,,,,,,,,,,,,,,,
+BHS,Total,Population using at least basic sanitation services (%),89.0,89.0,89.0,89.0,90.0,90.0,90.0,91.0,91.0,91.0,91.0,92.0,92.0,92.0,92.0,92.0
+BHS,Rural,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+BHS,Urban,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+BHS,Total,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+BHR,Rural,Population using at least basic sanitation services (%),,,,,,,,,,,,,,,,
+BHR,Urban,Population using at least basic sanitation services (%),,,,,,,,,,,,,,,,
+BHR,Total,Population using at least basic sanitation services (%),100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+BHR,Rural,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+BHR,Urban,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+BHR,Total,Population using safely managed sanitation services (%),93.0,93.0,93.0,93.0,93.0,93.0,93.0,93.0,93.0,93.0,93.0,93.0,93.0,93.0,93.0,93.0
+BGD,Rural,Population using at least basic sanitation services (%),21.0,22.0,24.0,25.0,27.0,28.0,30.0,31.0,33.0,34.0,36.0,37.0,39.0,40.0,42.0,43.0
+BGD,Urban,Population using at least basic sanitation services (%),41.0,42.0,42.0,43.0,44.0,45.0,46.0,47.0,48.0,48.0,49.0,50.0,51.0,52.0,53.0,54.0
+BGD,Total,Population using at least basic sanitation services (%),25.0,27.0,28.0,30.0,31.0,33.0,34.0,36.0,37.0,39.0,40.0,41.0,43.0,44.0,46.0,47.0
+BGD,Rural,Population using safely managed sanitation services (%),15.0,16.0,17.0,19.0,20.0,21.0,22.0,23.0,24.0,25.0,26.0,28.0,29.0,30.0,31.0,32.0
+BGD,Urban,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+BGD,Total,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+BRB,Rural,Population using at least basic sanitation services (%),,,,,,,,,,,,,,,,
+BRB,Urban,Population using at least basic sanitation services (%),,,,,,,,,,,,,,,,
+BRB,Total,Population using at least basic sanitation services (%),88.0,88.0,89.0,90.0,90.0,91.0,92.0,92.0,93.0,93.0,94.0,95.0,95.0,96.0,96.0,96.0
+BRB,Rural,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+BRB,Urban,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+BRB,Total,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+BLR,Rural,Population using at least basic sanitation services (%),97.0,97.0,97.0,97.0,97.0,97.0,97.0,97.0,96.0,96.0,96.0,96.0,96.0,95.0,95.0,95.0
+BLR,Urban,Population using at least basic sanitation services (%),94.0,94.0,94.0,94.0,94.0,94.0,94.0,94.0,94.0,94.0,94.0,94.0,94.0,94.0,94.0,94.0
+BLR,Total,Population using at least basic sanitation services (%),95.0,95.0,95.0,95.0,95.0,95.0,95.0,95.0,95.0,95.0,95.0,94.0,94.0,94.0,94.0,94.0
+BLR,Rural,Population using safely managed sanitation services (%),66.0,66.0,66.0,66.0,67.0,68.0,68.0,69.0,70.0,70.0,70.0,71.0,71.0,71.0,71.0,71.0
+BLR,Urban,Population using safely managed sanitation services (%),88.0,88.0,88.0,88.0,87.0,86.0,86.0,85.0,84.0,83.0,82.0,81.0,80.0,80.0,79.0,78.0
+BLR,Total,Population using safely managed sanitation services (%),82.0,82.0,82.0,82.0,82.0,81.0,81.0,81.0,80.0,80.0,79.0,79.0,78.0,78.0,77.0,76.0
+BEL,Rural,Population using at least basic sanitation services (%),99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0
+BEL,Urban,Population using at least basic sanitation services (%),99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0
+BEL,Total,Population using at least basic sanitation services (%),99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0
+BEL,Rural,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+BEL,Urban,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+BEL,Total,Population using safely managed sanitation services (%),70.0,70.0,70.0,70.0,72.0,74.0,77.0,79.0,81.0,83.0,86.0,88.0,90.0,93.0,95.0,97.0
+BLZ,Rural,Population using at least basic sanitation services (%),79.0,79.0,79.0,80.0,80.0,80.0,81.0,81.0,82.0,82.0,82.0,83.0,83.0,83.0,84.0,84.0
+BLZ,Urban,Population using at least basic sanitation services (%),87.0,87.0,87.0,88.0,88.0,88.0,89.0,89.0,89.0,89.0,90.0,90.0,90.0,91.0,91.0,91.0
+BLZ,Total,Population using at least basic sanitation services (%),83.0,83.0,83.0,83.0,84.0,84.0,84.0,85.0,85.0,85.0,86.0,86.0,86.0,87.0,87.0,87.0
+BLZ,Rural,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+BLZ,Urban,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+BLZ,Total,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+BEN,Rural,Population using at least basic sanitation services (%),3.0,3.0,4.0,4.0,4.0,4.0,4.0,4.0,4.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0
+BEN,Urban,Population using at least basic sanitation services (%),21.0,21.0,21.0,21.0,22.0,22.0,22.0,23.0,23.0,23.0,23.0,24.0,24.0,24.0,25.0,25.0
+BEN,Total,Population using at least basic sanitation services (%),10.0,10.0,10.0,11.0,11.0,11.0,11.0,12.0,12.0,12.0,13.0,13.0,13.0,13.0,14.0,14.0
+BEN,Rural,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+BEN,Urban,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+BEN,Total,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+BHU,Rural,Population using at least basic sanitation services (%),46.0,46.0,47.0,48.0,48.0,49.0,50.0,51.0,51.0,52.0,53.0,54.0,55.0,55.0,56.0,57.0
+BHU,Urban,Population using at least basic sanitation services (%),75.0,75.0,74.0,74.0,74.0,74.0,74.0,73.0,73.0,73.0,73.0,73.0,73.0,72.0,72.0,72.0
+BHU,Total,Population using at least basic sanitation services (%),53.0,53.0,54.0,55.0,56.0,57.0,57.0,58.0,59.0,59.0,60.0,61.0,61.0,62.0,62.0,63.0
+BHU,Rural,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+BHU,Urban,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+BHU,Total,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+BOL,Rural,Population using at least basic sanitation services (%),18.0,18.0,19.0,20.0,20.0,21.0,21.0,22.0,23.0,23.0,24.0,24.0,25.0,26.0,26.0,27.0
+BOL,Urban,Population using at least basic sanitation services (%),51.0,52.0,53.0,54.0,55.0,55.0,56.0,57.0,58.0,59.0,60.0,61.0,62.0,63.0,64.0,64.0
+BOL,Total,Population using at least basic sanitation services (%),38.0,39.0,40.0,41.0,42.0,43.0,44.0,45.0,46.0,47.0,48.0,49.0,50.0,51.0,52.0,53.0
+BOL,Rural,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+BOL,Urban,Population using safely managed sanitation services (%),19.0,19.0,19.0,19.0,20.0,20.0,20.0,20.0,21.0,21.0,21.0,21.0,21.0,22.0,22.0,22.0
+BOL,Total,Population using safely managed sanitation services (%),15.0,15.0,15.0,16.0,16.0,16.0,16.0,17.0,17.0,17.0,18.0,18.0,18.0,18.0,19.0,19.0
+BIH,Rural,Population using at least basic sanitation services (%),93.0,93.0,93.0,93.0,92.0,92.0,92.0,92.0,92.0,92.0,92.0,92.0,92.0,92.0,92.0,92.0
+BIH,Urban,Population using at least basic sanitation services (%),98.0,98.0,98.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0
+BIH,Total,Population using at least basic sanitation services (%),95.0,95.0,95.0,95.0,95.0,95.0,95.0,95.0,95.0,95.0,95.0,95.0,95.0,95.0,95.0,95.0
+BIH,Rural,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+BIH,Urban,Population using safely managed sanitation services (%),12.0,11.0,11.0,11.0,11.0,11.0,11.0,10.0,10.0,10.0,10.0,10.0,10.0,10.0,9.0,9.0
+BIH,Total,Population using safely managed sanitation services (%),23.0,23.0,23.0,23.0,23.0,23.0,23.0,23.0,23.0,23.0,23.0,23.0,23.0,23.0,23.0,23.0
+BWA,Rural,Population using at least basic sanitation services (%),35.0,35.0,35.0,36.0,36.0,36.0,37.0,37.0,38.0,38.0,38.0,39.0,39.0,39.0,39.0,39.0
+BWA,Urban,Population using at least basic sanitation services (%),72.0,72.0,72.0,72.0,73.0,73.0,73.0,74.0,74.0,74.0,74.0,75.0,75.0,75.0,75.0,75.0
+BWA,Total,Population using at least basic sanitation services (%),54.0,55.0,55.0,56.0,56.0,57.0,57.0,57.0,58.0,58.0,59.0,59.0,59.0,60.0,60.0,60.0
+BWA,Rural,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+BWA,Urban,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+BWA,Total,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+BRA,Rural,Population using at least basic sanitation services (%),36.0,37.0,39.0,40.0,42.0,43.0,45.0,46.0,48.0,49.0,51.0,52.0,54.0,55.0,57.0,58.0
+BRA,Urban,Population using at least basic sanitation services (%),82.0,83.0,83.0,84.0,84.0,85.0,86.0,86.0,87.0,87.0,88.0,88.0,89.0,90.0,90.0,91.0
+BRA,Total,Population using at least basic sanitation services (%),73.0,74.0,75.0,76.0,77.0,78.0,79.0,79.0,80.0,81.0,82.0,83.0,84.0,85.0,85.0,86.0
+BRA,Rural,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+BRA,Urban,Population using safely managed sanitation services (%),29.0,29.0,30.0,30.0,31.0,32.0,32.0,33.0,34.0,35.0,36.0,36.0,37.0,38.0,39.0,40.0
+BRA,Total,Population using safely managed sanitation services (%),26.0,27.0,28.0,28.0,29.0,30.0,30.0,31.0,32.0,33.0,34.0,35.0,36.0,37.0,38.0,39.0
+BRN,Rural,Population using at least basic sanitation services (%),,,,,,,,97.0,97.0,97.0,97.0,97.0,97.0,97.0,97.0,97.0
+BRN,Urban,Population using at least basic sanitation services (%),,,,,,,,96.0,96.0,96.0,96.0,96.0,96.0,96.0,96.0,96.0
+BRN,Total,Population using at least basic sanitation services (%),,,,,,,,96.0,96.0,96.0,96.0,96.0,96.0,96.0,96.0,96.0
+BRN,Rural,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+BRN,Urban,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+BRN,Total,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+BGR,Rural,Population using at least basic sanitation services (%),84.0,84.0,84.0,84.0,84.0,84.0,84.0,84.0,84.0,84.0,84.0,84.0,84.0,84.0,84.0,84.0
+BGR,Urban,Population using at least basic sanitation services (%),87.0,87.0,87.0,87.0,87.0,87.0,87.0,87.0,87.0,87.0,87.0,87.0,87.0,87.0,87.0,87.0
+BGR,Total,Population using at least basic sanitation services (%),86.0,86.0,86.0,86.0,86.0,86.0,86.0,86.0,86.0,86.0,86.0,86.0,86.0,86.0,86.0,86.0
+BGR,Rural,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+BGR,Urban,Population using safely managed sanitation services (%),75.0,76.0,76.0,76.0,76.0,77.0,77.0,78.0,78.0,79.0,79.0,80.0,80.0,81.0,81.0,82.0
+BGR,Total,Population using safely managed sanitation services (%),67.0,68.0,68.0,68.0,69.0,69.0,70.0,70.0,71.0,71.0,72.0,72.0,73.0,73.0,74.0,74.0
+BFA,Rural,Population using at least basic sanitation services (%),2.0,2.0,3.0,3.0,4.0,5.0,6.0,6.0,7.0,8.0,8.0,9.0,10.0,10.0,11.0,12.0
+BFA,Urban,Population using at least basic sanitation services (%),44.0,44.0,44.0,45.0,45.0,45.0,45.0,46.0,46.0,46.0,46.0,47.0,47.0,47.0,47.0,48.0
+BFA,Total,Population using at least basic sanitation services (%),10.0,10.0,11.0,12.0,13.0,14.0,14.0,15.0,16.0,17.0,18.0,19.0,20.0,21.0,22.0,23.0
+BFA,Rural,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+BFA,Urban,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+BFA,Total,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+BDI,Rural,Population using at least basic sanitation services (%),42.0,43.0,43.0,44.0,45.0,45.0,46.0,47.0,47.0,48.0,49.0,49.0,50.0,50.0,51.0,51.0
+BDI,Urban,Population using at least basic sanitation services (%),34.0,35.0,36.0,37.0,37.0,38.0,39.0,40.0,41.0,42.0,43.0,43.0,44.0,45.0,46.0,46.0
+BDI,Total,Population using at least basic sanitation services (%),41.0,42.0,43.0,43.0,44.0,45.0,45.0,46.0,47.0,47.0,48.0,49.0,49.0,50.0,50.0,50.0
+BDI,Rural,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+BDI,Urban,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+BDI,Total,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+CPV,Rural,Population using at least basic sanitation services (%),23.0,25.0,27.0,29.0,31.0,33.0,35.0,38.0,40.0,42.0,44.0,46.0,48.0,50.0,50.0,51.0
+CPV,Urban,Population using at least basic sanitation services (%),50.0,52.0,54.0,56.0,57.0,59.0,61.0,63.0,64.0,66.0,68.0,70.0,71.0,73.0,73.0,73.0
+CPV,Total,Population using at least basic sanitation services (%),37.0,40.0,42.0,44.0,46.0,48.0,50.0,52.0,55.0,57.0,59.0,61.0,63.0,64.0,65.0,65.0
+CPV,Rural,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+CPV,Urban,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+CPV,Total,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+KHM,Rural,Population using at least basic sanitation services (%),4.0,6.0,9.0,11.0,13.0,15.0,18.0,20.0,22.0,25.0,27.0,29.0,32.0,34.0,36.0,39.0
+KHM,Urban,Population using at least basic sanitation services (%),49.0,52.0,54.0,57.0,59.0,62.0,65.0,67.0,70.0,72.0,75.0,78.0,80.0,83.0,85.0,88.0
+KHM,Total,Population using at least basic sanitation services (%),12.0,15.0,17.0,20.0,22.0,24.0,27.0,29.0,32.0,34.0,37.0,39.0,41.0,44.0,46.0,49.0
+KHM,Rural,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+KHM,Urban,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+KHM,Total,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+CMR,Rural,Population using at least basic sanitation services (%),26.0,26.0,25.0,25.0,24.0,24.0,23.0,23.0,22.0,22.0,21.0,21.0,20.0,20.0,19.0,19.0
+CMR,Urban,Population using at least basic sanitation services (%),56.0,56.0,56.0,56.0,56.0,56.0,56.0,56.0,56.0,56.0,56.0,56.0,56.0,56.0,56.0,56.0
+CMR,Total,Population using at least basic sanitation services (%),40.0,40.0,40.0,39.0,39.0,39.0,39.0,39.0,39.0,39.0,39.0,39.0,39.0,39.0,39.0,39.0
+CMR,Rural,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+CMR,Urban,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+CMR,Total,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+CAN,Rural,Population using at least basic sanitation services (%),,,,,,,,,,,,,,,,
+CAN,Urban,Population using at least basic sanitation services (%),,,,,,,,,,,,,,,,
+CAN,Total,Population using at least basic sanitation services (%),99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0
+CAN,Rural,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+CAN,Urban,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+CAN,Total,Population using safely managed sanitation services (%),73.0,73.0,73.0,74.0,74.0,74.0,75.0,75.0,76.0,76.0,76.0,77.0,77.0,77.0,77.0,77.0
+CAF,Rural,Population using at least basic sanitation services (%),8.0,8.0,8.0,9.0,9.0,9.0,9.0,9.0,9.0,9.0,9.0,9.0,9.0,9.0,9.0,9.0
+CAF,Urban,Population using at least basic sanitation services (%),26.0,28.0,30.0,32.0,34.0,36.0,38.0,39.0,41.0,43.0,45.0,47.0,49.0,49.0,49.0,49.0
+CAF,Total,Population using at least basic sanitation services (%),15.0,16.0,17.0,17.0,18.0,19.0,20.0,21.0,21.0,22.0,23.0,24.0,25.0,25.0,25.0,25.0
+CAF,Rural,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+CAF,Urban,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+CAF,Total,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+TCD,Rural,Population using at least basic sanitation services (%),6.0,6.0,6.0,6.0,5.0,5.0,5.0,5.0,4.0,4.0,4.0,4.0,4.0,3.0,3.0,3.0
+TCD,Urban,Population using at least basic sanitation services (%),23.0,24.0,24.0,25.0,26.0,26.0,27.0,27.0,28.0,29.0,29.0,30.0,31.0,31.0,32.0,33.0
+TCD,Total,Population using at least basic sanitation services (%),10.0,10.0,10.0,10.0,10.0,10.0,10.0,10.0,10.0,10.0,10.0,10.0,10.0,10.0,10.0,10.0
+TCD,Rural,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+TCD,Urban,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+TCD,Total,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+CHL,Rural,Population using at least basic sanitation services (%),67.0,69.0,72.0,74.0,76.0,78.0,80.0,82.0,85.0,87.0,89.0,91.0,93.0,96.0,98.0,99.0
+CHL,Urban,Population using at least basic sanitation services (%),96.0,96.0,96.0,97.0,97.0,97.0,98.0,98.0,98.0,99.0,99.0,99.0,99.0,100.0,100.0,100.0
+CHL,Total,Population using at least basic sanitation services (%),92.0,92.0,93.0,94.0,94.0,95.0,96.0,96.0,97.0,97.0,98.0,98.0,99.0,99.0,100.0,100.0
+CHL,Rural,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+CHL,Urban,Population using safely managed sanitation services (%),47.0,47.0,47.0,47.0,50.0,53.0,56.0,58.0,61.0,64.0,67.0,70.0,73.0,76.0,78.0,81.0
+CHL,Total,Population using safely managed sanitation services (%),27.0,31.0,34.0,38.0,42.0,45.0,49.0,53.0,57.0,61.0,65.0,69.0,73.0,77.0,81.0,85.0
+CHN,Rural,Population using at least basic sanitation services (%),52.0,52.0,52.0,53.0,54.0,54.0,55.0,56.0,56.0,57.0,58.0,58.0,59.0,60.0,60.0,61.0
+CHN,Urban,Population using at least basic sanitation services (%),77.0,77.0,78.0,79.0,79.0,80.0,80.0,81.0,82.0,82.0,83.0,84.0,84.0,85.0,86.0,86.0
+CHN,Total,Population using at least basic sanitation services (%),61.0,61.0,62.0,63.0,64.0,65.0,66.0,67.0,68.0,69.0,70.0,71.0,72.0,73.0,74.0,75.0
+CHN,Rural,Population using safely managed sanitation services (%),30.0,30.0,31.0,32.0,33.0,33.0,34.0,35.0,36.0,37.0,38.0,38.0,39.0,40.0,41.0,42.0
+CHN,Urban,Population using safely managed sanitation services (%),26.0,27.0,27.0,31.0,34.0,38.0,42.0,45.0,49.0,53.0,56.0,60.0,63.0,67.0,70.0,73.0
+CHN,Total,Population using safely managed sanitation services (%),29.0,29.0,30.0,31.0,33.0,35.0,37.0,40.0,42.0,44.0,47.0,49.0,52.0,54.0,57.0,60.0
+COL,Rural,Population using at least basic sanitation services (%),51.0,52.0,53.0,55.0,56.0,58.0,59.0,61.0,62.0,63.0,65.0,66.0,68.0,69.0,71.0,72.0
+COL,Urban,Population using at least basic sanitation services (%),86.0,86.0,86.0,86.0,86.0,86.0,87.0,87.0,87.0,87.0,87.0,88.0,88.0,88.0,88.0,88.0
+COL,Total,Population using at least basic sanitation services (%),76.0,76.0,77.0,78.0,78.0,79.0,79.0,80.0,81.0,81.0,82.0,82.0,83.0,83.0,84.0,84.0
+COL,Rural,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+COL,Urban,Population using safely managed sanitation services (%),16.0,16.0,16.0,16.0,16.0,16.0,16.0,16.0,16.0,16.0,16.0,16.0,16.0,16.0,16.0,16.0
+COL,Total,Population using safely managed sanitation services (%),17.0,17.0,17.0,17.0,18.0,18.0,18.0,18.0,18.0,19.0,19.0,19.0,19.0,19.0,19.0,20.0
+COM,Rural,Population using at least basic sanitation services (%),22.0,23.0,23.0,24.0,24.0,25.0,25.0,26.0,26.0,27.0,27.0,28.0,28.0,28.0,29.0,29.0
+COM,Urban,Population using at least basic sanitation services (%),39.0,40.0,40.0,41.0,41.0,42.0,43.0,43.0,44.0,44.0,45.0,46.0,46.0,47.0,47.0,47.0
+COM,Total,Population using at least basic sanitation services (%),27.0,27.0,28.0,28.0,29.0,29.0,30.0,30.0,31.0,31.0,32.0,33.0,33.0,34.0,34.0,34.0
+COM,Rural,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+COM,Urban,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+COM,Total,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+COG,Rural,Population using at least basic sanitation services (%),6.0,6.0,6.0,6.0,6.0,6.0,6.0,6.0,6.0,6.0,6.0,6.0,6.0,6.0,6.0,6.0
+COG,Urban,Population using at least basic sanitation services (%),18.0,18.0,18.0,18.0,18.0,18.0,19.0,19.0,19.0,19.0,19.0,19.0,20.0,20.0,20.0,20.0
+COG,Total,Population using at least basic sanitation services (%),13.0,13.0,13.0,13.0,13.0,13.0,14.0,14.0,14.0,14.0,14.0,14.0,15.0,15.0,15.0,15.0
+COG,Rural,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+COG,Urban,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+COG,Total,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+COK,Rural,Population using at least basic sanitation services (%),,,,,,,,,,,,,,,,
+COK,Urban,Population using at least basic sanitation services (%),,,,,,,,,,,,,,,,
+COK,Total,Population using at least basic sanitation services (%),92.0,93.0,93.0,93.0,94.0,94.0,95.0,95.0,96.0,96.0,96.0,97.0,97.0,98.0,98.0,98.0
+COK,Rural,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+COK,Urban,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+COK,Total,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+CRI,Rural,Population using at least basic sanitation services (%),90.0,90.0,91.0,91.0,91.0,91.0,92.0,92.0,92.0,93.0,93.0,93.0,93.0,94.0,94.0,94.0
+CRI,Urban,Population using at least basic sanitation services (%),97.0,97.0,97.0,97.0,97.0,97.0,97.0,97.0,98.0,98.0,98.0,98.0,98.0,98.0,98.0,98.0
+CRI,Total,Population using at least basic sanitation services (%),94.0,94.0,95.0,95.0,95.0,95.0,96.0,96.0,96.0,96.0,96.0,97.0,97.0,97.0,97.0,97.0
+CRI,Rural,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+CRI,Urban,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+CRI,Total,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+HRV,Rural,Population using at least basic sanitation services (%),96.0,96.0,96.0,96.0,96.0,96.0,96.0,96.0,96.0,96.0,96.0,96.0,96.0,96.0,96.0,96.0
+HRV,Urban,Population using at least basic sanitation services (%),98.0,98.0,98.0,98.0,98.0,98.0,98.0,98.0,98.0,98.0,98.0,98.0,98.0,98.0,98.0,98.0
+HRV,Total,Population using at least basic sanitation services (%),97.0,97.0,97.0,97.0,97.0,97.0,97.0,97.0,97.0,97.0,97.0,97.0,97.0,97.0,97.0,97.0
+HRV,Rural,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+HRV,Urban,Population using safely managed sanitation services (%),64.0,64.0,64.0,64.0,64.0,64.0,65.0,65.0,65.0,65.0,65.0,65.0,65.0,65.0,65.0,65.0
+HRV,Total,Population using safely managed sanitation services (%),60.0,60.0,60.0,60.0,60.0,60.0,60.0,60.0,60.0,60.0,60.0,60.0,60.0,60.0,60.0,60.0
+CUB,Rural,Population using at least basic sanitation services (%),80.0,80.0,81.0,81.0,82.0,83.0,83.0,84.0,84.0,85.0,85.0,86.0,86.0,87.0,88.0,88.0
+CUB,Urban,Population using at least basic sanitation services (%),92.0,92.0,92.0,92.0,92.0,92.0,92.0,92.0,92.0,92.0,92.0,92.0,92.0,92.0,92.0,92.0
+CUB,Total,Population using at least basic sanitation services (%),89.0,89.0,89.0,90.0,90.0,90.0,90.0,90.0,90.0,90.0,90.0,90.0,91.0,91.0,91.0,91.0
+CUB,Rural,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+CUB,Urban,Population using safely managed sanitation services (%),31.0,31.0,31.0,31.0,31.0,31.0,30.0,30.0,30.0,30.0,29.0,29.0,29.0,29.0,28.0,28.0
+CUB,Total,Population using safely managed sanitation services (%),32.0,32.0,32.0,32.0,32.0,32.0,32.0,32.0,32.0,32.0,32.0,31.0,31.0,31.0,31.0,31.0
+CYP,Rural,Population using at least basic sanitation services (%),100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0
+CYP,Urban,Population using at least basic sanitation services (%),100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+CYP,Total,Population using at least basic sanitation services (%),100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,99.0,99.0,99.0
+CYP,Rural,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+CYP,Urban,Population using safely managed sanitation services (%),87.0,87.0,87.0,87.0,87.0,86.0,86.0,86.0,86.0,86.0,86.0,86.0,86.0,86.0,86.0,86.0
+CYP,Total,Population using safely managed sanitation services (%),76.0,77.0,76.0,76.0,76.0,76.0,76.0,76.0,76.0,76.0,76.0,76.0,76.0,76.0,76.0,76.0
+CZE,Rural,Population using at least basic sanitation services (%),99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0
+CZE,Urban,Population using at least basic sanitation services (%),99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0
+CZE,Total,Population using at least basic sanitation services (%),99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0
+CZE,Rural,Population using safely managed sanitation services (%),76.0,76.0,76.0,76.0,77.0,77.0,78.0,78.0,79.0,79.0,79.0,80.0,80.0,81.0,81.0,82.0
+CZE,Urban,Population using safely managed sanitation services (%),87.0,87.0,87.0,87.0,88.0,88.0,89.0,90.0,90.0,91.0,92.0,92.0,93.0,94.0,94.0,95.0
+CZE,Total,Population using safely managed sanitation services (%),84.0,84.0,84.0,84.0,85.0,85.0,86.0,87.0,87.0,88.0,88.0,89.0,90.0,90.0,91.0,91.0
+PRK,Rural,Population using at least basic sanitation services (%),,,68.0,68.0,68.0,68.0,68.0,68.0,68.0,68.0,68.0,68.0,68.0,68.0,68.0,68.0
+PRK,Urban,Population using at least basic sanitation services (%),,,83.0,83.0,83.0,83.0,83.0,83.0,83.0,83.0,83.0,83.0,83.0,83.0,83.0,83.0
+PRK,Total,Population using at least basic sanitation services (%),,,77.0,77.0,77.0,77.0,77.0,77.0,77.0,77.0,77.0,77.0,77.0,77.0,77.0,77.0
+PRK,Rural,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+PRK,Urban,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+PRK,Total,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+COD,Rural,Population using at least basic sanitation services (%),21.0,21.0,21.0,21.0,20.0,20.0,20.0,20.0,19.0,19.0,19.0,19.0,18.0,18.0,18.0,18.0
+COD,Urban,Population using at least basic sanitation services (%),24.0,24.0,24.0,24.0,24.0,24.0,23.0,23.0,23.0,23.0,23.0,23.0,23.0,23.0,23.0,23.0
+COD,Total,Population using at least basic sanitation services (%),22.0,22.0,22.0,22.0,22.0,21.0,21.0,21.0,21.0,21.0,21.0,20.0,20.0,20.0,20.0,20.0
+COD,Rural,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+COD,Urban,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+COD,Total,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+DNK,Rural,Population using at least basic sanitation services (%),100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+DNK,Urban,Population using at least basic sanitation services (%),100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+DNK,Total,Population using at least basic sanitation services (%),100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+DNK,Rural,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+DNK,Urban,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+DNK,Total,Population using safely managed sanitation services (%),93.0,93.0,93.0,93.0,93.0,93.0,93.0,93.0,93.0,93.0,93.0,93.0,93.0,93.0,93.0,93.0
+DJI,Rural,Population using at least basic sanitation services (%),13.0,13.0,13.0,13.0,13.0,13.0,13.0,13.0,13.0,13.0,13.0,13.0,13.0,13.0,13.0,13.0
+DJI,Urban,Population using at least basic sanitation services (%),63.0,63.0,63.0,63.0,63.0,63.0,63.0,63.0,63.0,63.0,63.0,63.0,63.0,63.0,63.0,63.0
+DJI,Total,Population using at least basic sanitation services (%),51.0,51.0,51.0,51.0,51.0,51.0,51.0,51.0,51.0,51.0,51.0,51.0,51.0,51.0,51.0,51.0
+DJI,Rural,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+DJI,Urban,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+DJI,Total,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+DMA,Rural,Population using at least basic sanitation services (%),,,,,,,,,,,,,,,,
+DMA,Urban,Population using at least basic sanitation services (%),,,,,,,,,,,,,,,,
+DMA,Total,Population using at least basic sanitation services (%),64.0,65.0,67.0,68.0,69.0,70.0,72.0,73.0,74.0,75.0,77.0,78.0,78.0,78.0,78.0,78.0
+DMA,Rural,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+DMA,Urban,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+DMA,Total,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+DOM,Rural,Population using at least basic sanitation services (%),70.0,70.0,71.0,71.0,71.0,71.0,72.0,72.0,72.0,72.0,72.0,73.0,73.0,73.0,73.0,74.0
+DOM,Urban,Population using at least basic sanitation services (%),85.0,85.0,85.0,85.0,85.0,85.0,85.0,85.0,85.0,85.0,85.0,85.0,85.0,85.0,85.0,85.0
+DOM,Total,Population using at least basic sanitation services (%),79.0,80.0,80.0,80.0,80.0,81.0,81.0,81.0,81.0,82.0,82.0,82.0,82.0,82.0,83.0,83.0
+DOM,Rural,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+DOM,Urban,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+DOM,Total,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+ECU,Rural,Population using at least basic sanitation services (%),53.0,55.0,57.0,59.0,60.0,62.0,64.0,66.0,68.0,69.0,71.0,73.0,75.0,77.0,79.0,80.0
+ECU,Urban,Population using at least basic sanitation services (%),82.0,83.0,83.0,84.0,84.0,85.0,85.0,86.0,86.0,87.0,87.0,88.0,88.0,88.0,89.0,89.0
+ECU,Total,Population using at least basic sanitation services (%),71.0,72.0,73.0,74.0,75.0,76.0,77.0,78.0,79.0,80.0,81.0,82.0,83.0,84.0,85.0,86.0
+ECU,Rural,Population using safely managed sanitation services (%),43.0,44.0,45.0,46.0,47.0,48.0,49.0,49.0,50.0,51.0,52.0,53.0,54.0,55.0,56.0,57.0
+ECU,Urban,Population using safely managed sanitation services (%),42.0,42.0,41.0,41.0,40.0,40.0,39.0,39.0,38.0,37.0,37.0,36.0,36.0,35.0,35.0,34.0
+ECU,Total,Population using safely managed sanitation services (%),42.0,42.0,42.0,42.0,42.0,42.0,42.0,43.0,43.0,43.0,42.0,42.0,42.0,42.0,42.0,42.0
+EGY,Rural,Population using at least basic sanitation services (%),89.0,89.0,89.0,89.0,89.0,90.0,90.0,90.0,90.0,90.0,90.0,90.0,90.0,90.0,90.0,90.0
+EGY,Urban,Population using at least basic sanitation services (%),97.0,97.0,97.0,97.0,97.0,97.0,97.0,97.0,97.0,97.0,97.0,97.0,97.0,97.0,97.0,97.0
+EGY,Total,Population using at least basic sanitation services (%),92.0,92.0,93.0,93.0,93.0,93.0,93.0,93.0,93.0,93.0,93.0,93.0,93.0,93.0,93.0,93.0
+EGY,Rural,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+EGY,Urban,Population using safely managed sanitation services (%),62.0,62.0,63.0,63.0,64.0,64.0,65.0,66.0,66.0,67.0,67.0,68.0,68.0,69.0,69.0,70.0
+EGY,Total,Population using safely managed sanitation services (%),53.0,53.0,54.0,54.0,55.0,55.0,56.0,56.0,57.0,57.0,58.0,59.0,59.0,60.0,60.0,61.0
+SLV,Rural,Population using at least basic sanitation services (%),71.0,71.0,71.0,72.0,73.0,75.0,76.0,77.0,78.0,80.0,81.0,82.0,83.0,85.0,86.0,87.0
+SLV,Urban,Population using at least basic sanitation services (%),90.0,90.0,90.0,90.0,90.0,90.0,91.0,91.0,91.0,92.0,92.0,92.0,92.0,93.0,93.0,93.0
+SLV,Total,Population using at least basic sanitation services (%),82.0,82.0,82.0,83.0,84.0,84.0,85.0,86.0,86.0,87.0,88.0,89.0,89.0,90.0,90.0,91.0
+SLV,Rural,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+SLV,Urban,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+SLV,Total,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+GNQ,Rural,Population using at least basic sanitation services (%),80.0,79.0,78.0,78.0,77.0,76.0,76.0,75.0,74.0,74.0,73.0,72.0,72.0,71.0,71.0,71.0
+GNQ,Urban,Population using at least basic sanitation services (%),81.0,81.0,81.0,81.0,80.0,80.0,80.0,80.0,80.0,80.0,80.0,80.0,80.0,80.0,80.0,80.0
+GNQ,Total,Population using at least basic sanitation services (%),80.0,80.0,79.0,79.0,78.0,78.0,78.0,77.0,77.0,76.0,76.0,75.0,75.0,75.0,75.0,75.0
+GNQ,Rural,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+GNQ,Urban,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+GNQ,Total,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+ERI,Rural,Population using at least basic sanitation services (%),2.0,2.0,2.0,3.0,3.0,3.0,4.0,4.0,5.0,5.0,5.0,6.0,6.0,6.0,6.0,6.0
+ERI,Urban,Population using at least basic sanitation services (%),36.0,35.0,35.0,34.0,33.0,33.0,32.0,32.0,31.0,31.0,30.0,29.0,29.0,29.0,29.0,29.0
+ERI,Total,Population using at least basic sanitation services (%),8.0,8.0,8.0,8.0,9.0,9.0,9.0,10.0,10.0,10.0,10.0,11.0,11.0,11.0,11.0,11.0
+ERI,Rural,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+ERI,Urban,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+ERI,Total,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+EST,Rural,Population using at least basic sanitation services (%),99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,100.0,100.0
+EST,Urban,Population using at least basic sanitation services (%),99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,100.0,100.0,100.0,100.0,100.0,100.0
+EST,Total,Population using at least basic sanitation services (%),99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,100.0,100.0,100.0,100.0
+EST,Rural,Population using safely managed sanitation services (%),74.0,74.0,75.0,75.0,76.0,76.0,77.0,77.0,78.0,78.0,79.0,79.0,80.0,80.0,81.0,81.0
+EST,Urban,Population using safely managed sanitation services (%),93.0,93.0,94.0,94.0,94.0,95.0,95.0,96.0,96.0,96.0,97.0,97.0,97.0,98.0,98.0,99.0
+EST,Total,Population using safely managed sanitation services (%),87.0,88.0,88.0,88.0,89.0,89.0,89.0,90.0,90.0,91.0,91.0,91.0,92.0,92.0,93.0,93.0
+SWZ,Rural,Population using at least basic sanitation services (%),47.0,48.0,48.0,49.0,50.0,51.0,51.0,52.0,53.0,54.0,54.0,55.0,56.0,56.0,57.0,58.0
+SWZ,Urban,Population using at least basic sanitation services (%),57.0,57.0,58.0,58.0,58.0,58.0,58.0,58.0,58.0,58.0,58.0,58.0,58.0,58.0,58.0,58.0
+SWZ,Total,Population using at least basic sanitation services (%),49.0,50.0,50.0,51.0,52.0,52.0,53.0,53.0,54.0,54.0,55.0,56.0,56.0,57.0,57.0,58.0
+SWZ,Rural,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+SWZ,Urban,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+SWZ,Total,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+ETH,Rural,Population using at least basic sanitation services (%),1.0,1.0,1.0,2.0,2.0,2.0,2.0,3.0,3.0,3.0,3.0,3.0,4.0,4.0,4.0,4.0
+ETH,Urban,Population using at least basic sanitation services (%),15.0,16.0,16.0,16.0,16.0,16.0,17.0,17.0,17.0,17.0,17.0,18.0,18.0,18.0,18.0,18.0
+ETH,Total,Population using at least basic sanitation services (%),3.0,3.0,4.0,4.0,4.0,4.0,5.0,5.0,5.0,5.0,6.0,6.0,6.0,7.0,7.0,7.0
+ETH,Rural,Population using safely managed sanitation services (%),1.0,1.0,1.0,2.0,2.0,2.0,2.0,2.0,2.0,3.0,3.0,3.0,3.0,3.0,4.0,4.0
+ETH,Urban,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+ETH,Total,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+FJI,Rural,Population using at least basic sanitation services (%),71.0,71.0,71.0,73.0,74.0,76.0,78.0,80.0,82.0,84.0,86.0,88.0,90.0,91.0,93.0,95.0
+FJI,Urban,Population using at least basic sanitation services (%),91.0,91.0,91.0,91.0,92.0,92.0,93.0,93.0,93.0,94.0,94.0,95.0,95.0,95.0,96.0,96.0
+FJI,Total,Population using at least basic sanitation services (%),80.0,81.0,81.0,82.0,83.0,84.0,85.0,87.0,88.0,89.0,90.0,91.0,92.0,93.0,95.0,96.0
+FJI,Rural,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+FJI,Urban,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+FJI,Total,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+FIN,Rural,Population using at least basic sanitation services (%),99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0
+FIN,Urban,Population using at least basic sanitation services (%),99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0
+FIN,Total,Population using at least basic sanitation services (%),99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0
+FIN,Rural,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+FIN,Urban,Population using safely managed sanitation services (%),97.0,97.0,97.0,97.0,97.0,97.0,98.0,98.0,98.0,98.0,98.0,98.0,98.0,98.0,98.0,98.0
+FIN,Total,Population using safely managed sanitation services (%),89.0,89.0,90.0,90.0,90.0,91.0,91.0,91.0,91.0,91.0,91.0,91.0,91.0,92.0,92.0,92.0
+FRA,Rural,Population using at least basic sanitation services (%),99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0
+FRA,Urban,Population using at least basic sanitation services (%),99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0
+FRA,Total,Population using at least basic sanitation services (%),99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0
+FRA,Rural,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+FRA,Urban,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+FRA,Total,Population using safely managed sanitation services (%),88.0,88.0,88.0,88.0,89.0,89.0,89.0,90.0,90.0,90.0,91.0,91.0,91.0,91.0,92.0,92.0
+GAB,Rural,Population using at least basic sanitation services (%),35.0,34.0,34.0,34.0,34.0,34.0,34.0,34.0,33.0,33.0,33.0,33.0,33.0,33.0,32.0,32.0
+GAB,Urban,Population using at least basic sanitation services (%),40.0,40.0,40.0,41.0,41.0,41.0,41.0,41.0,41.0,41.0,42.0,42.0,42.0,42.0,42.0,42.0
+GAB,Total,Population using at least basic sanitation services (%),39.0,39.0,39.0,39.0,40.0,40.0,40.0,40.0,40.0,40.0,40.0,40.0,41.0,41.0,41.0,41.0
+GAB,Rural,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+GAB,Urban,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+GAB,Total,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+GMB,Rural,Population using at least basic sanitation services (%),59.0,57.0,56.0,54.0,52.0,51.0,49.0,48.0,46.0,45.0,43.0,42.0,40.0,38.0,37.0,35.0
+GMB,Urban,Population using at least basic sanitation services (%),51.0,51.0,51.0,50.0,50.0,50.0,49.0,49.0,49.0,48.0,48.0,47.0,47.0,47.0,46.0,46.0
+GMB,Total,Population using at least basic sanitation services (%),55.0,54.0,53.0,52.0,51.0,50.0,49.0,48.0,47.0,47.0,46.0,45.0,44.0,43.0,42.0,42.0
+GMB,Rural,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+GMB,Urban,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+GMB,Total,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+GEO,Rural,Population using at least basic sanitation services (%),96.0,96.0,94.0,93.0,91.0,89.0,88.0,86.0,85.0,83.0,81.0,80.0,78.0,76.0,75.0,73.0
+GEO,Urban,Population using at least basic sanitation services (%),96.0,96.0,96.0,96.0,96.0,96.0,96.0,96.0,96.0,96.0,96.0,95.0,95.0,95.0,95.0,95.0
+GEO,Total,Population using at least basic sanitation services (%),96.0,96.0,95.0,95.0,94.0,93.0,92.0,91.0,90.0,90.0,89.0,88.0,87.0,86.0,86.0,85.0
+GEO,Rural,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+GEO,Urban,Population using safely managed sanitation services (%),6.0,6.0,7.0,7.0,8.0,9.0,10.0,11.0,12.0,13.0,14.0,14.0,15.0,16.0,16.0,17.0
+GEO,Total,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+DEU,Rural,Population using at least basic sanitation services (%),99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0
+DEU,Urban,Population using at least basic sanitation services (%),99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0
+DEU,Total,Population using at least basic sanitation services (%),99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0
+DEU,Rural,Population using safely managed sanitation services (%),93.0,93.0,93.0,93.0,92.0,92.0,92.0,92.0,92.0,92.0,92.0,92.0,92.0,92.0,92.0,92.0
+DEU,Urban,Population using safely managed sanitation services (%),98.0,98.0,98.0,98.0,98.0,98.0,98.0,97.0,97.0,97.0,97.0,97.0,97.0,97.0,97.0,97.0
+DEU,Total,Population using safely managed sanitation services (%),96.0,96.0,96.0,96.0,96.0,96.0,96.0,96.0,96.0,96.0,96.0,96.0,95.0,95.0,95.0,95.0
+GHA,Rural,Population using at least basic sanitation services (%),6.0,6.0,7.0,7.0,7.0,7.0,7.0,8.0,8.0,8.0,8.0,8.0,8.0,9.0,9.0,9.0
+GHA,Urban,Population using at least basic sanitation services (%),17.0,18.0,18.0,18.0,18.0,18.0,18.0,18.0,18.0,18.0,18.0,18.0,19.0,19.0,19.0,19.0
+GHA,Total,Population using at least basic sanitation services (%),11.0,11.0,12.0,12.0,12.0,12.0,12.0,13.0,13.0,13.0,13.0,13.0,14.0,14.0,14.0,14.0
+GHA,Rural,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+GHA,Urban,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+GHA,Total,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+GRC,Rural,Population using at least basic sanitation services (%),92.0,93.0,93.0,94.0,94.0,94.0,95.0,95.0,95.0,96.0,96.0,97.0,97.0,97.0,98.0,98.0
+GRC,Urban,Population using at least basic sanitation services (%),98.0,98.0,98.0,98.0,98.0,98.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0
+GRC,Total,Population using at least basic sanitation services (%),97.0,97.0,97.0,97.0,97.0,97.0,98.0,98.0,98.0,98.0,98.0,98.0,98.0,98.0,99.0,99.0
+GRC,Rural,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+GRC,Urban,Population using safely managed sanitation services (%),80.0,81.0,81.0,81.0,81.0,81.0,81.0,81.0,81.0,81.0,81.0,81.0,81.0,81.0,81.0,81.0
+GRC,Total,Population using safely managed sanitation services (%),73.0,73.0,73.0,73.0,73.0,74.0,74.0,74.0,74.0,74.0,74.0,75.0,75.0,75.0,75.0,75.0
+GRD,Rural,Population using at least basic sanitation services (%),,,,,,,,,,,,,,,,
+GRD,Urban,Population using at least basic sanitation services (%),,,,,,,,,,,,,,,,
+GRD,Total,Population using at least basic sanitation services (%),92.0,92.0,92.0,92.0,91.0,91.0,91.0,90.0,90.0,90.0,89.0,89.0,89.0,88.0,88.0,88.0
+GRD,Rural,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+GRD,Urban,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+GRD,Total,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+GTM,Rural,Population using at least basic sanitation services (%),43.0,44.0,44.0,45.0,46.0,46.0,47.0,48.0,48.0,49.0,50.0,50.0,51.0,52.0,52.0,53.0
+GTM,Urban,Population using at least basic sanitation services (%),79.0,79.0,79.0,79.0,79.0,79.0,80.0,80.0,80.0,80.0,80.0,80.0,80.0,80.0,81.0,81.0
+GTM,Total,Population using at least basic sanitation services (%),59.0,60.0,60.0,61.0,61.0,62.0,63.0,63.0,64.0,64.0,65.0,65.0,66.0,66.0,67.0,67.0
+GTM,Rural,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+GTM,Urban,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+GTM,Total,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+GIN,Rural,Population using at least basic sanitation services (%),3.0,4.0,5.0,5.0,6.0,7.0,8.0,9.0,9.0,10.0,11.0,12.0,12.0,13.0,14.0,15.0
+GIN,Urban,Population using at least basic sanitation services (%),22.0,23.0,24.0,25.0,25.0,26.0,27.0,28.0,29.0,29.0,30.0,31.0,32.0,33.0,33.0,34.0
+GIN,Total,Population using at least basic sanitation services (%),9.0,10.0,11.0,12.0,12.0,13.0,14.0,15.0,16.0,17.0,18.0,18.0,19.0,20.0,21.0,22.0
+GIN,Rural,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+GIN,Urban,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+GIN,Total,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+GNB,Rural,Population using at least basic sanitation services (%),4.0,4.0,5.0,5.0,5.0,5.0,6.0,6.0,6.0,7.0,7.0,7.0,8.0,8.0,8.0,8.0
+GNB,Urban,Population using at least basic sanitation services (%),26.0,26.0,27.0,28.0,28.0,29.0,29.0,30.0,31.0,31.0,32.0,32.0,33.0,34.0,34.0,35.0
+GNB,Total,Population using at least basic sanitation services (%),12.0,13.0,13.0,14.0,14.0,15.0,16.0,16.0,17.0,18.0,18.0,19.0,20.0,20.0,21.0,21.0
+GNB,Rural,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+GNB,Urban,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+GNB,Total,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+GUY,Rural,Population using at least basic sanitation services (%),75.0,76.0,77.0,77.0,78.0,79.0,79.0,80.0,80.0,81.0,82.0,82.0,83.0,84.0,84.0,85.0
+GUY,Urban,Population using at least basic sanitation services (%),86.0,86.0,86.0,87.0,87.0,87.0,87.0,87.0,88.0,88.0,88.0,88.0,89.0,89.0,89.0,89.0
+GUY,Total,Population using at least basic sanitation services (%),78.0,79.0,79.0,80.0,80.0,81.0,81.0,82.0,82.0,83.0,84.0,84.0,85.0,85.0,86.0,86.0
+GUY,Rural,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+GUY,Urban,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+GUY,Total,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+HTI,Rural,Population using at least basic sanitation services (%),10.0,11.0,12.0,13.0,14.0,14.0,15.0,16.0,17.0,18.0,18.0,19.0,20.0,21.0,22.0,22.0
+HTI,Urban,Population using at least basic sanitation services (%),29.0,29.0,30.0,30.0,31.0,31.0,32.0,33.0,33.0,34.0,34.0,35.0,36.0,36.0,37.0,37.0
+HTI,Total,Population using at least basic sanitation services (%),17.0,18.0,19.0,20.0,21.0,22.0,23.0,24.0,25.0,26.0,27.0,28.0,29.0,29.0,30.0,31.0
+HTI,Rural,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+HTI,Urban,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+HTI,Total,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+HND,Rural,Population using at least basic sanitation services (%),50.0,51.0,53.0,55.0,57.0,58.0,60.0,62.0,63.0,65.0,67.0,68.0,70.0,72.0,73.0,75.0
+HND,Urban,Population using at least basic sanitation services (%),77.0,77.0,77.0,78.0,78.0,79.0,79.0,80.0,80.0,81.0,81.0,82.0,82.0,83.0,83.0,84.0
+HND,Total,Population using at least basic sanitation services (%),62.0,63.0,64.0,66.0,67.0,68.0,69.0,71.0,72.0,73.0,74.0,75.0,76.0,78.0,79.0,80.0
+HND,Rural,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+HND,Urban,Population using safely managed sanitation services (%),15.0,15.0,15.0,15.0,15.0,15.0,15.0,15.0,15.0,15.0,15.0,15.0,15.0,15.0,15.0,15.0
+HND,Total,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+HUN,Rural,Population using at least basic sanitation services (%),99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0
+HUN,Urban,Population using at least basic sanitation services (%),98.0,98.0,98.0,98.0,98.0,98.0,98.0,98.0,98.0,98.0,98.0,98.0,98.0,98.0,98.0,98.0
+HUN,Total,Population using at least basic sanitation services (%),98.0,98.0,98.0,98.0,98.0,98.0,98.0,98.0,98.0,98.0,98.0,98.0,98.0,98.0,98.0,98.0
+HUN,Rural,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+HUN,Urban,Population using safely managed sanitation services (%),53.0,53.0,53.0,53.0,56.0,60.0,63.0,66.0,69.0,72.0,75.0,78.0,81.0,83.0,83.0,83.0
+HUN,Total,Population using safely managed sanitation services (%),52.0,52.0,52.0,52.0,55.0,57.0,59.0,62.0,64.0,67.0,69.0,72.0,74.0,75.0,76.0,76.0
+ISL,Rural,Population using at least basic sanitation services (%),100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+ISL,Urban,Population using at least basic sanitation services (%),99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0
+ISL,Total,Population using at least basic sanitation services (%),99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0
+ISL,Rural,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+ISL,Urban,Population using safely managed sanitation services (%),70.0,70.0,70.0,70.0,70.0,70.0,70.0,70.0,70.0,70.0,70.0,70.0,70.0,70.0,70.0,70.0
+ISL,Total,Population using safely managed sanitation services (%),69.0,69.0,69.0,69.0,69.0,69.0,69.0,69.0,69.0,69.0,69.0,69.0,69.0,69.0,69.0,69.0
+IND,Rural,Population using at least basic sanitation services (%),11.0,12.0,14.0,15.0,17.0,18.0,20.0,21.0,23.0,24.0,26.0,28.0,29.0,31.0,32.0,34.0
+IND,Urban,Population using at least basic sanitation services (%),51.0,52.0,53.0,54.0,55.0,56.0,57.0,58.0,59.0,60.0,61.0,62.0,62.0,63.0,64.0,65.0
+IND,Total,Population using at least basic sanitation services (%),22.0,23.0,25.0,26.0,28.0,29.0,31.0,32.0,34.0,35.0,37.0,38.0,40.0,41.0,43.0,44.0
+IND,Rural,Population using safely managed sanitation services (%),9.0,11.0,12.0,14.0,15.0,16.0,18.0,19.0,21.0,22.0,23.0,25.0,26.0,28.0,29.0,31.0
+IND,Urban,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+IND,Total,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+IDN,Rural,Population using at least basic sanitation services (%),28.0,30.0,32.0,34.0,36.0,38.0,40.0,42.0,44.0,46.0,47.0,49.0,51.0,53.0,55.0,57.0
+IDN,Urban,Population using at least basic sanitation services (%),66.0,67.0,68.0,69.0,69.0,70.0,71.0,71.0,72.0,73.0,74.0,74.0,75.0,76.0,77.0,77.0
+IDN,Total,Population using at least basic sanitation services (%),44.0,46.0,48.0,49.0,51.0,53.0,54.0,56.0,57.0,59.0,60.0,62.0,64.0,65.0,66.0,68.0
+IDN,Rural,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+IDN,Urban,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+IDN,Total,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+IRN,Rural,Population using at least basic sanitation services (%),79.0,79.0,79.0,79.0,79.0,79.0,79.0,79.0,79.0,79.0,79.0,79.0,79.0,79.0,79.0,79.0
+IRN,Urban,Population using at least basic sanitation services (%),92.0,92.0,92.0,92.0,92.0,92.0,92.0,92.0,92.0,92.0,92.0,92.0,92.0,92.0,92.0,92.0
+IRN,Total,Population using at least basic sanitation services (%),87.0,87.0,87.0,88.0,88.0,88.0,88.0,88.0,88.0,88.0,88.0,88.0,88.0,88.0,88.0,88.0
+IRN,Rural,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+IRN,Urban,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+IRN,Total,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+IRQ,Rural,Population using at least basic sanitation services (%),55.0,57.0,59.0,62.0,64.0,67.0,69.0,71.0,74.0,76.0,79.0,81.0,83.0,86.0,86.0,86.0
+IRQ,Urban,Population using at least basic sanitation services (%),85.0,85.0,85.0,85.0,85.0,85.0,85.0,85.0,85.0,85.0,85.0,85.0,86.0,86.0,86.0,86.0
+IRQ,Total,Population using at least basic sanitation services (%),75.0,76.0,77.0,78.0,78.0,79.0,80.0,81.0,82.0,82.0,83.0,84.0,85.0,86.0,86.0,86.0
+IRQ,Rural,Population using safely managed sanitation services (%),11.0,13.0,14.0,15.0,16.0,17.0,18.0,20.0,21.0,22.0,23.0,24.0,25.0,26.0,26.0,26.0
+IRQ,Urban,Population using safely managed sanitation services (%),25.0,25.0,25.0,26.0,26.0,27.0,28.0,29.0,30.0,31.0,32.0,33.0,34.0,35.0,35.0,35.0
+IRQ,Total,Population using safely managed sanitation services (%),21.0,21.0,22.0,22.0,23.0,24.0,25.0,26.0,27.0,28.0,29.0,30.0,31.0,32.0,32.0,32.0
+IRL,Rural,Population using at least basic sanitation services (%),91.0,91.0,91.0,92.0,92.0,92.0,92.0,93.0,93.0,93.0,94.0,94.0,94.0,94.0,95.0,95.0
+IRL,Urban,Population using at least basic sanitation services (%),87.0,87.0,87.0,88.0,88.0,88.0,88.0,89.0,89.0,89.0,89.0,90.0,90.0,90.0,90.0,91.0
+IRL,Total,Population using at least basic sanitation services (%),89.0,89.0,89.0,89.0,90.0,90.0,90.0,90.0,90.0,91.0,91.0,91.0,91.0,92.0,92.0,92.0
+IRL,Rural,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+IRL,Urban,Population using safely managed sanitation services (%),44.0,47.0,50.0,53.0,56.0,59.0,62.0,66.0,69.0,72.0,75.0,78.0,81.0,84.0,87.0,88.0
+IRL,Total,Population using safely managed sanitation services (%),36.0,38.0,40.0,43.0,45.0,47.0,50.0,52.0,55.0,57.0,60.0,62.0,65.0,67.0,70.0,70.0
+ISR,Rural,Population using at least basic sanitation services (%),100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+ISR,Urban,Population using at least basic sanitation services (%),100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+ISR,Total,Population using at least basic sanitation services (%),100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+ISR,Rural,Population using safely managed sanitation services (%),78.0,79.0,79.0,80.0,81.0,82.0,83.0,84.0,85.0,86.0,87.0,88.0,89.0,90.0,91.0,91.0
+ISR,Urban,Population using safely managed sanitation services (%),79.0,80.0,81.0,82.0,83.0,84.0,85.0,86.0,87.0,88.0,89.0,90.0,91.0,92.0,92.0,93.0
+ISR,Total,Population using safely managed sanitation services (%),79.0,80.0,81.0,82.0,83.0,84.0,85.0,86.0,87.0,88.0,88.0,89.0,90.0,91.0,92.0,93.0
+ITA,Rural,Population using at least basic sanitation services (%),,,,,,,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0
+ITA,Urban,Population using at least basic sanitation services (%),,,,,,,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0
+ITA,Total,Population using at least basic sanitation services (%),,,,,,,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0
+ITA,Rural,Population using safely managed sanitation services (%),,,,,,,94.0,94.0,94.0,94.0,94.0,94.0,94.0,94.0,94.0,94.0
+ITA,Urban,Population using safely managed sanitation services (%),,,,,,,97.0,97.0,96.0,96.0,96.0,96.0,96.0,96.0,96.0,96.0
+ITA,Total,Population using safely managed sanitation services (%),,,,,,,96.0,96.0,96.0,96.0,96.0,96.0,95.0,95.0,95.0,95.0
+JAM,Rural,Population using at least basic sanitation services (%),84.0,84.0,84.0,85.0,85.0,85.0,85.0,86.0,86.0,86.0,86.0,87.0,87.0,87.0,87.0,87.0
+JAM,Urban,Population using at least basic sanitation services (%),84.0,84.0,84.0,84.0,84.0,84.0,84.0,84.0,84.0,84.0,84.0,84.0,84.0,84.0,84.0,84.0
+JAM,Total,Population using at least basic sanitation services (%),84.0,84.0,84.0,84.0,84.0,84.0,84.0,85.0,85.0,85.0,85.0,85.0,85.0,85.0,85.0,85.0
+JAM,Rural,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+JAM,Urban,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+JAM,Total,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+JPN,Rural,Population using at least basic sanitation services (%),,,,,,,,,,,,,,,,
+JPN,Urban,Population using at least basic sanitation services (%),,,,,,,,,,,,,,,,
+JPN,Total,Population using at least basic sanitation services (%),100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+JPN,Rural,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+JPN,Urban,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+JPN,Total,Population using safely managed sanitation services (%),98.0,98.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,100.0,100.0,100.0,100.0,100.0,100.0
+JOR,Rural,Population using at least basic sanitation services (%),98.0,98.0,98.0,98.0,98.0,97.0,97.0,97.0,97.0,97.0,97.0,96.0,96.0,96.0,96.0,96.0
+JOR,Urban,Population using at least basic sanitation services (%),99.0,99.0,99.0,99.0,99.0,98.0,98.0,98.0,98.0,98.0,98.0,97.0,97.0,97.0,97.0,97.0
+JOR,Total,Population using at least basic sanitation services (%),99.0,99.0,99.0,99.0,98.0,98.0,98.0,98.0,98.0,98.0,97.0,97.0,97.0,97.0,97.0,97.0
+JOR,Rural,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+JOR,Urban,Population using safely managed sanitation services (%),83.0,83.0,83.0,83.0,83.0,83.0,83.0,83.0,83.0,83.0,83.0,83.0,83.0,83.0,82.0,82.0
+JOR,Total,Population using safely managed sanitation services (%),77.0,77.0,77.0,77.0,77.0,77.0,77.0,77.0,77.0,77.0,77.0,77.0,77.0,77.0,77.0,77.0
+KAZ,Rural,Population using at least basic sanitation services (%),97.0,97.0,97.0,97.0,98.0,98.0,98.0,98.0,98.0,98.0,98.0,98.0,98.0,99.0,99.0,99.0
+KAZ,Urban,Population using at least basic sanitation services (%),97.0,97.0,97.0,97.0,97.0,97.0,97.0,97.0,97.0,97.0,97.0,97.0,97.0,97.0,97.0,97.0
+KAZ,Total,Population using at least basic sanitation services (%),97.0,97.0,97.0,97.0,97.0,97.0,97.0,97.0,97.0,97.0,97.0,98.0,98.0,98.0,98.0,98.0
+KAZ,Rural,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+KAZ,Urban,Population using safely managed sanitation services (%),69.0,69.0,69.0,69.0,69.0,69.0,69.0,68.0,68.0,68.0,68.0,68.0,68.0,68.0,67.0,67.0
+KAZ,Total,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+KEN,Rural,Population using at least basic sanitation services (%),30.0,30.0,30.0,30.0,30.0,30.0,29.0,29.0,29.0,29.0,29.0,29.0,28.0,28.0,28.0,28.0
+KEN,Urban,Population using at least basic sanitation services (%),34.0,34.0,34.0,34.0,34.0,34.0,34.0,35.0,35.0,35.0,35.0,35.0,35.0,35.0,35.0,35.0
+KEN,Total,Population using at least basic sanitation services (%),31.0,31.0,31.0,31.0,31.0,31.0,30.0,30.0,30.0,30.0,30.0,30.0,30.0,30.0,30.0,30.0
+KEN,Rural,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+KEN,Urban,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+KEN,Total,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+KIR,Rural,Population using at least basic sanitation services (%),21.0,22.0,23.0,23.0,24.0,25.0,26.0,27.0,28.0,29.0,30.0,31.0,32.0,32.0,32.0,32.0
+KIR,Urban,Population using at least basic sanitation services (%),43.0,44.0,44.0,45.0,45.0,46.0,46.0,47.0,47.0,48.0,48.0,49.0,49.0,49.0,49.0,49.0
+KIR,Total,Population using at least basic sanitation services (%),30.0,31.0,32.0,33.0,33.0,34.0,35.0,36.0,37.0,37.0,38.0,39.0,40.0,40.0,40.0,40.0
+KIR,Rural,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+KIR,Urban,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+KIR,Total,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+KWT,Rural,Population using at least basic sanitation services (%),,,,,,,,,,,,,,,,
+KWT,Urban,Population using at least basic sanitation services (%),,,,,,,,,,,,,,,,
+KWT,Total,Population using at least basic sanitation services (%),100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+KWT,Rural,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+KWT,Urban,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+KWT,Total,Population using safely managed sanitation services (%),100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+KGZ,Rural,Population using at least basic sanitation services (%),92.0,92.0,92.0,93.0,93.0,94.0,94.0,95.0,95.0,96.0,96.0,97.0,97.0,98.0,98.0,99.0
+KGZ,Urban,Population using at least basic sanitation services (%),92.0,92.0,92.0,92.0,92.0,92.0,92.0,93.0,93.0,93.0,93.0,93.0,93.0,93.0,93.0,93.0
+KGZ,Total,Population using at least basic sanitation services (%),92.0,92.0,92.0,93.0,93.0,93.0,94.0,94.0,94.0,95.0,95.0,95.0,96.0,96.0,96.0,97.0
+KGZ,Rural,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+KGZ,Urban,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+KGZ,Total,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+LAO,Rural,Population using at least basic sanitation services (%),17.0,20.0,23.0,25.0,28.0,31.0,34.0,37.0,40.0,43.0,45.0,48.0,51.0,54.0,57.0,60.0
+LAO,Urban,Population using at least basic sanitation services (%),67.0,69.0,71.0,72.0,74.0,76.0,78.0,79.0,81.0,83.0,84.0,86.0,88.0,90.0,91.0,93.0
+LAO,Total,Population using at least basic sanitation services (%),28.0,31.0,34.0,37.0,40.0,43.0,46.0,49.0,52.0,55.0,58.0,61.0,64.0,67.0,70.0,73.0
+LAO,Rural,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+LAO,Urban,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+LAO,Total,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+LVA,Rural,Population using at least basic sanitation services (%),72.0,72.0,73.0,74.0,75.0,76.0,77.0,77.0,78.0,79.0,80.0,81.0,81.0,82.0,83.0,84.0
+LVA,Urban,Population using at least basic sanitation services (%),93.0,93.0,93.0,94.0,94.0,94.0,95.0,95.0,95.0,95.0,96.0,96.0,96.0,97.0,97.0,97.0
+LVA,Total,Population using at least basic sanitation services (%),87.0,86.0,87.0,87.0,88.0,88.0,89.0,89.0,90.0,90.0,91.0,91.0,91.0,92.0,92.0,93.0
+LVA,Rural,Population using safely managed sanitation services (%),57.0,57.0,58.0,58.0,59.0,59.0,60.0,60.0,61.0,62.0,62.0,63.0,64.0,64.0,65.0,66.0
+LVA,Urban,Population using safely managed sanitation services (%),78.0,78.0,79.0,79.0,79.0,79.0,80.0,80.0,81.0,81.0,82.0,82.0,83.0,83.0,84.0,85.0
+LVA,Total,Population using safely managed sanitation services (%),72.0,72.0,72.0,72.0,72.0,73.0,73.0,74.0,74.0,75.0,75.0,76.0,77.0,77.0,78.0,78.0
+LBN,Rural,Population using at least basic sanitation services (%),,,,,,,,,,,,,,,,
+LBN,Urban,Population using at least basic sanitation services (%),,,,,,,,,,,,,,,,
+LBN,Total,Population using at least basic sanitation services (%),75.0,75.0,75.0,77.0,78.0,80.0,81.0,83.0,84.0,86.0,88.0,89.0,91.0,92.0,94.0,95.0
+LBN,Rural,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+LBN,Urban,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+LBN,Total,Population using safely managed sanitation services (%),16.0,16.0,16.0,17.0,17.0,17.0,17.0,18.0,18.0,18.0,19.0,19.0,19.0,19.0,20.0,20.0
+LSO,Rural,Population using at least basic sanitation services (%),4.0,7.0,10.0,12.0,15.0,17.0,20.0,22.0,25.0,28.0,30.0,33.0,35.0,38.0,40.0,43.0
+LSO,Urban,Population using at least basic sanitation services (%),19.0,20.0,22.0,24.0,26.0,28.0,29.0,31.0,33.0,35.0,37.0,38.0,40.0,42.0,44.0,46.0
+LSO,Total,Population using at least basic sanitation services (%),7.0,10.0,12.0,15.0,17.0,20.0,22.0,25.0,27.0,29.0,32.0,34.0,37.0,39.0,41.0,44.0
+LSO,Rural,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+LSO,Urban,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+LSO,Total,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+LBR,Rural,Population using at least basic sanitation services (%),4.0,4.0,4.0,4.0,4.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,6.0,6.0,6.0
+LBR,Urban,Population using at least basic sanitation services (%),25.0,25.0,25.0,25.0,26.0,26.0,26.0,26.0,26.0,27.0,27.0,27.0,27.0,28.0,28.0,28.0
+LBR,Total,Population using at least basic sanitation services (%),13.0,13.0,14.0,14.0,14.0,14.0,15.0,15.0,15.0,15.0,16.0,16.0,16.0,16.0,17.0,17.0
+LBR,Rural,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+LBR,Urban,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+LBR,Total,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+LBY,Rural,Population using at least basic sanitation services (%),,,,,,,,,,,,,,,,
+LBY,Urban,Population using at least basic sanitation services (%),,,,,,,,,,,,,,,,
+LBY,Total,Population using at least basic sanitation services (%),100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+LBY,Rural,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+LBY,Urban,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+LBY,Total,Population using safely managed sanitation services (%),29.0,29.0,29.0,29.0,29.0,29.0,28.0,28.0,28.0,28.0,27.0,27.0,27.0,27.0,26.0,26.0
+LTU,Rural,Population using at least basic sanitation services (%),68.0,70.0,71.0,72.0,73.0,74.0,75.0,77.0,78.0,79.0,80.0,81.0,83.0,84.0,85.0,86.0
+LTU,Urban,Population using at least basic sanitation services (%),93.0,93.0,94.0,94.0,94.0,94.0,95.0,95.0,95.0,96.0,96.0,96.0,97.0,97.0,97.0,97.0
+LTU,Total,Population using at least basic sanitation services (%),85.0,85.0,86.0,87.0,87.0,88.0,88.0,89.0,90.0,90.0,91.0,91.0,92.0,92.0,93.0,94.0
+LTU,Rural,Population using safely managed sanitation services (%),42.0,43.0,43.0,44.0,45.0,46.0,47.0,48.0,49.0,50.0,51.0,52.0,53.0,54.0,55.0,55.0
+LTU,Urban,Population using safely managed sanitation services (%),60.0,61.0,61.0,61.0,61.0,62.0,62.0,62.0,63.0,63.0,63.0,63.0,64.0,64.0,64.0,64.0
+LTU,Total,Population using safely managed sanitation services (%),54.0,55.0,55.0,56.0,56.0,57.0,57.0,58.0,58.0,59.0,59.0,60.0,60.0,61.0,61.0,61.0
+LUX,Rural,Population using at least basic sanitation services (%),99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0
+LUX,Urban,Population using at least basic sanitation services (%),98.0,98.0,98.0,98.0,97.0,97.0,97.0,97.0,97.0,97.0,97.0,97.0,97.0,97.0,97.0,97.0
+LUX,Total,Population using at least basic sanitation services (%),98.0,98.0,98.0,98.0,98.0,98.0,98.0,98.0,98.0,98.0,98.0,98.0,98.0,98.0,98.0,98.0
+LUX,Rural,Population using safely managed sanitation services (%),87.0,87.0,87.0,87.0,87.0,87.0,87.0,87.0,87.0,87.0,87.0,87.0,87.0,87.0,87.0,87.0
+LUX,Urban,Population using safely managed sanitation services (%),94.0,94.0,94.0,94.0,94.0,94.0,94.0,94.0,94.0,94.0,94.0,94.0,94.0,94.0,94.0,94.0
+LUX,Total,Population using safely managed sanitation services (%),93.0,93.0,93.0,93.0,93.0,93.0,93.0,93.0,94.0,94.0,94.0,94.0,94.0,94.0,94.0,94.0
+MDG,Rural,Population using at least basic sanitation services (%),3.0,3.0,3.0,3.0,4.0,4.0,4.0,4.0,4.0,5.0,5.0,5.0,5.0,6.0,6.0,6.0
+MDG,Urban,Population using at least basic sanitation services (%),10.0,10.0,11.0,11.0,12.0,12.0,12.0,13.0,13.0,14.0,14.0,15.0,15.0,15.0,16.0,16.0
+MDG,Total,Population using at least basic sanitation services (%),5.0,5.0,5.0,6.0,6.0,6.0,7.0,7.0,7.0,8.0,8.0,8.0,9.0,9.0,9.0,10.0
+MDG,Rural,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+MDG,Urban,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+MDG,Total,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+MWI,Rural,Population using at least basic sanitation services (%),33.0,33.0,34.0,35.0,35.0,36.0,37.0,37.0,38.0,39.0,39.0,40.0,41.0,41.0,42.0,43.0
+MWI,Urban,Population using at least basic sanitation services (%),46.0,46.0,46.0,46.0,46.0,47.0,47.0,47.0,47.0,47.0,48.0,48.0,48.0,48.0,48.0,49.0
+MWI,Total,Population using at least basic sanitation services (%),34.0,35.0,36.0,36.0,37.0,38.0,38.0,39.0,39.0,40.0,41.0,41.0,42.0,42.0,43.0,44.0
+MWI,Rural,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+MWI,Urban,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+MWI,Total,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+MYS,Rural,Population using at least basic sanitation services (%),94.0,95.0,95.0,95.0,96.0,96.0,96.0,97.0,97.0,97.0,98.0,98.0,98.0,99.0,99.0,99.0
+MYS,Urban,Population using at least basic sanitation services (%),98.0,98.0,98.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,100.0,100.0,100.0,100.0
+MYS,Total,Population using at least basic sanitation services (%),97.0,97.0,97.0,97.0,98.0,98.0,98.0,98.0,98.0,99.0,99.0,99.0,99.0,99.0,100.0,100.0
+MYS,Rural,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+MYS,Urban,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+MYS,Total,Population using safely managed sanitation services (%),78.0,78.0,79.0,79.0,79.0,80.0,80.0,80.0,80.0,81.0,81.0,81.0,81.0,82.0,82.0,82.0
+MDV,Rural,Population using at least basic sanitation services (%),71.0,74.0,77.0,79.0,82.0,84.0,87.0,89.0,92.0,94.0,97.0,98.0,98.0,98.0,98.0,98.0
+MDV,Urban,Population using at least basic sanitation services (%),95.0,95.0,95.0,95.0,95.0,94.0,94.0,94.0,94.0,93.0,93.0,93.0,93.0,93.0,93.0,93.0
+MDV,Total,Population using at least basic sanitation services (%),78.0,80.0,82.0,84.0,86.0,88.0,89.0,91.0,92.0,94.0,95.0,96.0,96.0,96.0,96.0,96.0
+MDV,Rural,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+MDV,Urban,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+MDV,Total,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+MLI,Rural,Population using at least basic sanitation services (%),12.0,13.0,13.0,14.0,15.0,15.0,16.0,16.0,17.0,18.0,18.0,19.0,20.0,20.0,21.0,22.0
+MLI,Urban,Population using at least basic sanitation services (%),38.0,38.0,39.0,39.0,40.0,41.0,41.0,42.0,42.0,43.0,43.0,44.0,44.0,45.0,45.0,46.0
+MLI,Total,Population using at least basic sanitation services (%),19.0,20.0,21.0,22.0,23.0,23.0,24.0,25.0,26.0,27.0,27.0,28.0,29.0,30.0,30.0,31.0
+MLI,Rural,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+MLI,Urban,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+MLI,Total,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+MLT,Rural,Population using at least basic sanitation services (%),100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+MLT,Urban,Population using at least basic sanitation services (%),100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+MLT,Total,Population using at least basic sanitation services (%),100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+MLT,Rural,Population using safely managed sanitation services (%),93.0,93.0,93.0,93.0,93.0,93.0,93.0,93.0,93.0,93.0,93.0,93.0,93.0,93.0,93.0,93.0
+MLT,Urban,Population using safely managed sanitation services (%),93.0,93.0,93.0,93.0,93.0,93.0,93.0,93.0,93.0,93.0,93.0,93.0,93.0,93.0,93.0,93.0
+MLT,Total,Population using safely managed sanitation services (%),93.0,93.0,93.0,93.0,93.0,93.0,93.0,93.0,93.0,93.0,93.0,93.0,93.0,93.0,93.0,93.0
+MHL,Rural,Population using at least basic sanitation services (%),,66.0,66.0,66.0,66.0,66.0,66.0,66.0,66.0,66.0,66.0,66.0,66.0,66.0,66.0,66.0
+MHL,Urban,Population using at least basic sanitation services (%),,95.0,95.0,95.0,95.0,95.0,95.0,95.0,95.0,95.0,95.0,95.0,95.0,95.0,95.0,95.0
+MHL,Total,Population using at least basic sanitation services (%),,86.0,86.0,86.0,86.0,86.0,86.0,86.0,86.0,86.0,87.0,87.0,87.0,87.0,87.0,87.0
+MHL,Rural,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+MHL,Urban,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+MHL,Total,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+MRT,Rural,Population using at least basic sanitation services (%),7.0,8.0,9.0,9.0,10.0,11.0,11.0,12.0,13.0,13.0,14.0,15.0,15.0,16.0,16.0,17.0
+MRT,Urban,Population using at least basic sanitation services (%),40.0,41.0,43.0,45.0,46.0,48.0,49.0,51.0,52.0,54.0,55.0,57.0,58.0,60.0,62.0,63.0
+MRT,Total,Population using at least basic sanitation services (%),23.0,25.0,26.0,27.0,29.0,30.0,32.0,33.0,34.0,36.0,37.0,39.0,40.0,42.0,43.0,45.0
+MRT,Rural,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+MRT,Urban,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+MRT,Total,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+MUS,Rural,Population using at least basic sanitation services (%),90.0,90.0,90.0,90.0,91.0,91.0,91.0,91.0,92.0,92.0,92.0,92.0,92.0,93.0,93.0,93.0
+MUS,Urban,Population using at least basic sanitation services (%),93.0,93.0,93.0,94.0,94.0,94.0,94.0,94.0,94.0,94.0,94.0,94.0,94.0,94.0,94.0,94.0
+MUS,Total,Population using at least basic sanitation services (%),91.0,91.0,92.0,92.0,92.0,92.0,92.0,92.0,92.0,93.0,93.0,93.0,93.0,93.0,93.0,93.0
+MUS,Rural,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+MUS,Urban,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+MUS,Total,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+MEX,Rural,Population using at least basic sanitation services (%),50.0,52.0,54.0,56.0,59.0,61.0,63.0,65.0,67.0,69.0,71.0,73.0,75.0,77.0,79.0,81.0
+MEX,Urban,Population using at least basic sanitation services (%),85.0,86.0,86.0,86.0,87.0,87.0,88.0,88.0,88.0,89.0,89.0,90.0,90.0,91.0,91.0,91.0
+MEX,Total,Population using at least basic sanitation services (%),76.0,77.0,78.0,79.0,80.0,81.0,82.0,83.0,83.0,84.0,85.0,86.0,87.0,88.0,88.0,89.0
+MEX,Rural,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+MEX,Urban,Population using safely managed sanitation services (%),19.0,21.0,23.0,24.0,26.0,28.0,29.0,31.0,33.0,35.0,37.0,39.0,40.0,42.0,44.0,46.0
+MEX,Total,Population using safely managed sanitation services (%),19.0,21.0,22.0,24.0,26.0,27.0,29.0,30.0,32.0,34.0,36.0,38.0,39.0,41.0,43.0,45.0
+FSM,Rural,Population using at least basic sanitation services (%),,,,,,,63.0,63.0,63.0,63.0,63.0,63.0,63.0,63.0,63.0,
+FSM,Urban,Population using at least basic sanitation services (%),,,,,,,88.0,88.0,88.0,88.0,88.0,88.0,88.0,88.0,88.0,
+FSM,Total,Population using at least basic sanitation services (%),,,,,,,68.0,68.0,68.0,68.0,68.0,68.0,68.0,68.0,68.0,
+FSM,Rural,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+FSM,Urban,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+FSM,Total,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+MCO,Rural,Population using at least basic sanitation services (%),,,,,,,,,,,,,,,,
+MCO,Urban,Population using at least basic sanitation services (%),100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+MCO,Total,Population using at least basic sanitation services (%),100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+MCO,Rural,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+MCO,Urban,Population using safely managed sanitation services (%),100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+MCO,Total,Population using safely managed sanitation services (%),100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+MNG,Rural,Population using at least basic sanitation services (%),26.0,27.0,28.0,29.0,30.0,31.0,32.0,34.0,35.0,36.0,37.0,38.0,39.0,40.0,40.0,41.0
+MNG,Urban,Population using at least basic sanitation services (%),64.0,65.0,65.0,65.0,65.0,65.0,65.0,66.0,66.0,66.0,66.0,66.0,66.0,66.0,66.0,66.0
+MNG,Total,Population using at least basic sanitation services (%),48.0,49.0,50.0,51.0,52.0,53.0,53.0,54.0,55.0,56.0,56.0,57.0,58.0,58.0,59.0,59.0
+MNG,Rural,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+MNG,Urban,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+MNG,Total,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+MNE,Rural,Population using at least basic sanitation services (%),,,,,,,89.0,89.0,89.0,90.0,90.0,91.0,91.0,91.0,92.0,92.0
+MNE,Urban,Population using at least basic sanitation services (%),,,,,,,93.0,94.0,94.0,95.0,95.0,96.0,97.0,97.0,98.0,98.0
+MNE,Total,Population using at least basic sanitation services (%),,,,,,,91.0,92.0,92.0,93.0,94.0,94.0,95.0,95.0,96.0,96.0
+MNE,Rural,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+MNE,Urban,Population using safely managed sanitation services (%),,,,,,,35.0,35.0,35.0,36.0,36.0,36.0,36.0,36.0,36.0,36.0
+MNE,Total,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+MAR,Rural,Population using at least basic sanitation services (%),47.0,49.0,51.0,53.0,55.0,57.0,59.0,61.0,62.0,64.0,66.0,68.0,69.0,71.0,73.0,75.0
+MAR,Urban,Population using at least basic sanitation services (%),87.0,87.0,88.0,88.0,88.0,88.0,88.0,88.0,88.0,89.0,89.0,89.0,89.0,89.0,89.0,89.0
+MAR,Total,Population using at least basic sanitation services (%),69.0,70.0,71.0,72.0,73.0,74.0,75.0,76.0,77.0,78.0,79.0,80.0,81.0,82.0,83.0,83.0
+MAR,Rural,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+MAR,Urban,Population using safely managed sanitation services (%),38.0,38.0,38.0,38.0,38.0,38.0,38.0,38.0,38.0,39.0,39.0,39.0,39.0,39.0,39.0,39.0
+MAR,Total,Population using safely managed sanitation services (%),31.0,32.0,32.0,33.0,33.0,34.0,34.0,35.0,35.0,36.0,36.0,36.0,37.0,37.0,38.0,38.0
+MOZ,Rural,Population using at least basic sanitation services (%),3.0,4.0,4.0,5.0,5.0,6.0,7.0,7.0,8.0,9.0,9.0,10.0,10.0,11.0,12.0,12.0
+MOZ,Urban,Population using at least basic sanitation services (%),34.0,35.0,36.0,37.0,38.0,38.0,39.0,40.0,41.0,42.0,43.0,44.0,45.0,45.0,46.0,47.0
+MOZ,Total,Population using at least basic sanitation services (%),12.0,13.0,14.0,14.0,15.0,16.0,17.0,17.0,18.0,19.0,20.0,20.0,21.0,22.0,23.0,24.0
+MOZ,Rural,Population using safely managed sanitation services (%),3.0,4.0,4.0,5.0,5.0,6.0,7.0,7.0,8.0,8.0,9.0,10.0,10.0,11.0,12.0,12.0
+MOZ,Urban,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+MOZ,Total,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+MMR,Rural,Population using at least basic sanitation services (%),65.0,65.0,64.0,64.0,63.0,63.0,62.0,62.0,62.0,61.0,61.0,60.0,60.0,59.0,59.0,59.0
+MMR,Urban,Population using at least basic sanitation services (%),82.0,82.0,81.0,81.0,81.0,80.0,80.0,79.0,79.0,79.0,78.0,78.0,78.0,77.0,77.0,76.0
+MMR,Total,Population using at least basic sanitation services (%),70.0,69.0,69.0,69.0,68.0,68.0,68.0,67.0,67.0,67.0,66.0,66.0,66.0,65.0,65.0,65.0
+MMR,Rural,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+MMR,Urban,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+MMR,Total,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+NAM,Rural,Population using at least basic sanitation services (%),14.0,14.0,14.0,14.0,15.0,15.0,15.0,15.0,15.0,15.0,15.0,15.0,15.0,15.0,15.0,15.0
+NAM,Urban,Population using at least basic sanitation services (%),58.0,58.0,57.0,57.0,57.0,57.0,57.0,56.0,56.0,56.0,56.0,56.0,55.0,55.0,55.0,55.0
+NAM,Total,Population using at least basic sanitation services (%),28.0,29.0,29.0,29.0,30.0,30.0,30.0,31.0,31.0,32.0,32.0,32.0,33.0,33.0,33.0,34.0
+NAM,Rural,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+NAM,Urban,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+NAM,Total,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+NRU,Rural,Population using at least basic sanitation services (%),,,,,,,,,,,,,,,,
+NRU,Urban,Population using at least basic sanitation services (%),66.0,66.0,66.0,66.0,66.0,66.0,66.0,66.0,66.0,66.0,66.0,66.0,66.0,66.0,66.0,66.0
+NRU,Total,Population using at least basic sanitation services (%),66.0,66.0,66.0,66.0,66.0,66.0,66.0,66.0,66.0,66.0,66.0,66.0,66.0,66.0,66.0,66.0
+NRU,Rural,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+NRU,Urban,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+NRU,Total,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+NPL,Rural,Population using at least basic sanitation services (%),16.0,18.0,20.0,22.0,23.0,25.0,27.0,29.0,31.0,33.0,35.0,37.0,39.0,41.0,43.0,45.0
+NPL,Urban,Population using at least basic sanitation services (%),42.0,42.0,43.0,44.0,44.0,45.0,46.0,47.0,47.0,48.0,49.0,50.0,50.0,51.0,52.0,52.0
+NPL,Total,Population using at least basic sanitation services (%),19.0,21.0,23.0,25.0,27.0,28.0,30.0,32.0,34.0,36.0,37.0,39.0,41.0,43.0,44.0,46.0
+NPL,Rural,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+NPL,Urban,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+NPL,Total,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+NLD,Rural,Population using at least basic sanitation services (%),100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+NLD,Urban,Population using at least basic sanitation services (%),98.0,98.0,98.0,98.0,98.0,98.0,98.0,98.0,98.0,98.0,98.0,98.0,98.0,98.0,98.0,98.0
+NLD,Total,Population using at least basic sanitation services (%),98.0,98.0,98.0,98.0,98.0,98.0,98.0,98.0,98.0,98.0,98.0,98.0,98.0,98.0,98.0,98.0
+NLD,Rural,Population using safely managed sanitation services (%),97.0,97.0,97.0,97.0,97.0,97.0,97.0,97.0,97.0,97.0,97.0,97.0,97.0,97.0,97.0,97.0
+NLD,Urban,Population using safely managed sanitation services (%),98.0,98.0,98.0,98.0,98.0,98.0,98.0,98.0,98.0,98.0,98.0,98.0,98.0,98.0,98.0,98.0
+NLD,Total,Population using safely managed sanitation services (%),97.0,97.0,97.0,97.0,97.0,97.0,97.0,97.0,97.0,97.0,97.0,97.0,97.0,97.0,97.0,97.0
+NZL,Rural,Population using at least basic sanitation services (%),100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+NZL,Urban,Population using at least basic sanitation services (%),100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+NZL,Total,Population using at least basic sanitation services (%),100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+NZL,Rural,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+NZL,Urban,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+NZL,Total,Population using safely managed sanitation services (%),75.0,76.0,76.0,76.0,76.0,76.0,76.0,76.0,76.0,76.0,76.0,76.0,76.0,76.0,76.0,76.0
+NIC,Rural,Population using at least basic sanitation services (%),45.0,46.0,47.0,49.0,50.0,51.0,52.0,53.0,55.0,56.0,57.0,58.0,59.0,60.0,62.0,63.0
+NIC,Urban,Population using at least basic sanitation services (%),73.0,74.0,75.0,76.0,76.0,77.0,78.0,79.0,80.0,81.0,82.0,82.0,83.0,84.0,85.0,86.0
+NIC,Total,Population using at least basic sanitation services (%),60.0,61.0,63.0,64.0,65.0,66.0,67.0,68.0,69.0,70.0,71.0,72.0,73.0,74.0,75.0,76.0
+NIC,Rural,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+NIC,Urban,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+NIC,Total,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+NER,Rural,Population using at least basic sanitation services (%),2.0,2.0,3.0,3.0,3.0,3.0,4.0,4.0,4.0,4.0,5.0,5.0,5.0,5.0,6.0,6.0
+NER,Urban,Population using at least basic sanitation services (%),26.0,27.0,28.0,29.0,30.0,32.0,33.0,34.0,35.0,36.0,38.0,39.0,40.0,41.0,42.0,44.0
+NER,Total,Population using at least basic sanitation services (%),6.0,6.0,7.0,7.0,8.0,8.0,9.0,9.0,9.0,10.0,10.0,11.0,11.0,12.0,12.0,13.0
+NER,Rural,Population using safely managed sanitation services (%),2.0,2.0,2.0,3.0,3.0,3.0,3.0,4.0,4.0,4.0,4.0,5.0,5.0,5.0,5.0,5.0
+NER,Urban,Population using safely managed sanitation services (%),15.0,16.0,17.0,18.0,18.0,19.0,19.0,20.0,20.0,21.0,21.0,22.0,22.0,23.0,23.0,24.0
+NER,Total,Population using safely managed sanitation services (%),4.0,4.0,5.0,5.0,5.0,6.0,6.0,6.0,6.0,7.0,7.0,7.0,8.0,8.0,8.0,9.0
+NGA,Rural,Population using at least basic sanitation services (%),35.0,34.0,34.0,33.0,33.0,32.0,32.0,31.0,31.0,30.0,30.0,29.0,29.0,28.0,28.0,27.0
+NGA,Urban,Population using at least basic sanitation services (%),39.0,39.0,39.0,39.0,39.0,39.0,39.0,39.0,39.0,39.0,39.0,39.0,39.0,39.0,39.0,39.0
+NGA,Total,Population using at least basic sanitation services (%),36.0,36.0,36.0,36.0,35.0,35.0,35.0,34.0,34.0,34.0,34.0,33.0,33.0,33.0,33.0,33.0
+NGA,Rural,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+NGA,Urban,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+NGA,Total,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+NIU,Rural,Population using at least basic sanitation services (%),,,,,,,,,,,,,,,,
+NIU,Urban,Population using at least basic sanitation services (%),,,,,,,,,,,,,,,,
+NIU,Total,Population using at least basic sanitation services (%),100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,99.0,99.0,98.0,98.0,97.0,97.0,97.0,97.0
+NIU,Rural,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+NIU,Urban,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+NIU,Total,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+NOR,Rural,Population using at least basic sanitation services (%),98.0,98.0,98.0,98.0,98.0,98.0,98.0,98.0,98.0,98.0,98.0,98.0,98.0,98.0,98.0,98.0
+NOR,Urban,Population using at least basic sanitation services (%),98.0,98.0,98.0,98.0,98.0,98.0,98.0,98.0,98.0,98.0,98.0,98.0,98.0,98.0,98.0,98.0
+NOR,Total,Population using at least basic sanitation services (%),98.0,98.0,98.0,98.0,98.0,98.0,98.0,98.0,98.0,98.0,98.0,98.0,98.0,98.0,98.0,98.0
+NOR,Rural,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+NOR,Urban,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+NOR,Total,Population using safely managed sanitation services (%),76.0,76.0,76.0,76.0,76.0,77.0,77.0,77.0,77.0,77.0,77.0,78.0,78.0,78.0,78.0,78.0
+OMN,Rural,Population using at least basic sanitation services (%),76.0,76.0,78.0,80.0,81.0,83.0,85.0,87.0,89.0,90.0,92.0,94.0,96.0,97.0,99.0,99.0
+OMN,Urban,Population using at least basic sanitation services (%),93.0,93.0,93.0,94.0,94.0,95.0,96.0,96.0,97.0,97.0,98.0,98.0,99.0,99.0,99.0,99.0
+OMN,Total,Population using at least basic sanitation services (%),88.0,88.0,89.0,90.0,91.0,92.0,93.0,94.0,95.0,96.0,96.0,97.0,98.0,99.0,99.0,99.0
+OMN,Rural,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+OMN,Urban,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+OMN,Total,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+PAK,Rural,Population using at least basic sanitation services (%),14.0,16.0,19.0,21.0,23.0,25.0,28.0,30.0,32.0,34.0,37.0,39.0,41.0,44.0,46.0,48.0
+PAK,Urban,Population using at least basic sanitation services (%),67.0,67.0,68.0,68.0,69.0,69.0,70.0,70.0,71.0,71.0,72.0,72.0,73.0,73.0,74.0,74.0
+PAK,Total,Population using at least basic sanitation services (%),32.0,33.0,35.0,37.0,39.0,41.0,43.0,44.0,46.0,48.0,50.0,51.0,53.0,55.0,57.0,58.0
+PAK,Rural,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+PAK,Urban,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+PAK,Total,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+PLW,Rural,Population using at least basic sanitation services (%),67.0,70.0,73.0,77.0,80.0,83.0,86.0,89.0,93.0,96.0,99.0,100.0,100.0,100.0,100.0,100.0
+PLW,Urban,Population using at least basic sanitation services (%),92.0,93.0,94.0,94.0,95.0,96.0,97.0,97.0,98.0,99.0,100.0,100.0,100.0,100.0,100.0,100.0
+PLW,Total,Population using at least basic sanitation services (%),85.0,87.0,88.0,90.0,92.0,93.0,95.0,96.0,97.0,98.0,100.0,100.0,100.0,100.0,100.0,100.0
+PLW,Rural,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+PLW,Urban,Population using safely managed sanitation services (%),12.0,13.0,13.0,13.0,14.0,14.0,14.0,15.0,15.0,15.0,16.0,16.0,16.0,16.0,16.0,16.0
+PLW,Total,Population using safely managed sanitation services (%),17.0,17.0,18.0,18.0,18.0,19.0,19.0,19.0,20.0,20.0,20.0,20.0,20.0,20.0,20.0,20.0
+PAN,Rural,Population using at least basic sanitation services (%),45.0,46.0,47.0,48.0,49.0,50.0,51.0,52.0,53.0,53.0,54.0,55.0,56.0,57.0,58.0,59.0
+PAN,Urban,Population using at least basic sanitation services (%),76.0,77.0,77.0,78.0,78.0,79.0,80.0,80.0,81.0,82.0,82.0,83.0,84.0,84.0,85.0,86.0
+PAN,Total,Population using at least basic sanitation services (%),64.0,65.0,66.0,67.0,68.0,68.0,69.0,70.0,71.0,72.0,73.0,74.0,74.0,75.0,76.0,77.0
+PAN,Rural,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+PAN,Urban,Population using safely managed sanitation services (%),25.0,25.0,25.0,26.0,26.0,26.0,26.0,27.0,27.0,27.0,27.0,28.0,28.0,28.0,29.0,29.0
+PAN,Total,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+PNG,Rural,Population using at least basic sanitation services (%),13.0,13.0,13.0,13.0,13.0,13.0,13.0,13.0,13.0,13.0,13.0,13.0,13.0,13.0,13.0,13.0
+PNG,Urban,Population using at least basic sanitation services (%),55.0,55.0,55.0,55.0,55.0,55.0,55.0,55.0,55.0,55.0,55.0,55.0,55.0,55.0,55.0,55.0
+PNG,Total,Population using at least basic sanitation services (%),19.0,19.0,19.0,19.0,19.0,19.0,19.0,19.0,19.0,19.0,19.0,19.0,19.0,19.0,19.0,19.0
+PNG,Rural,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+PNG,Urban,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+PNG,Total,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+PRY,Rural,Population using at least basic sanitation services (%),52.0,53.0,55.0,57.0,59.0,61.0,63.0,65.0,67.0,69.0,71.0,73.0,75.0,77.0,79.0,81.0
+PRY,Urban,Population using at least basic sanitation services (%),88.0,89.0,90.0,90.0,91.0,92.0,92.0,93.0,94.0,94.0,95.0,96.0,96.0,97.0,98.0,98.0
+PRY,Total,Population using at least basic sanitation services (%),72.0,73.0,75.0,76.0,77.0,79.0,80.0,81.0,83.0,84.0,85.0,86.0,88.0,89.0,90.0,91.0
+PRY,Rural,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+PRY,Urban,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+PRY,Total,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+PER,Rural,Population using at least basic sanitation services (%),25.0,27.0,30.0,32.0,34.0,36.0,38.0,41.0,43.0,45.0,47.0,49.0,52.0,54.0,56.0,58.0
+PER,Urban,Population using at least basic sanitation services (%),76.0,77.0,77.0,77.0,78.0,78.0,79.0,79.0,79.0,80.0,80.0,80.0,81.0,81.0,82.0,82.0
+PER,Total,Population using at least basic sanitation services (%),63.0,64.0,65.0,66.0,67.0,68.0,69.0,70.0,71.0,72.0,72.0,73.0,74.0,75.0,76.0,77.0
+PER,Rural,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+PER,Urban,Population using safely managed sanitation services (%),18.0,19.0,20.0,21.0,22.0,23.0,24.0,26.0,27.0,28.0,29.0,30.0,31.0,32.0,34.0,35.0
+PER,Total,Population using safely managed sanitation services (%),15.0,16.0,17.0,18.0,19.0,20.0,21.0,22.0,23.0,24.0,25.0,26.0,27.0,28.0,29.0,30.0
+PHL,Rural,Population using at least basic sanitation services (%),59.0,60.0,61.0,62.0,63.0,63.0,64.0,65.0,66.0,67.0,68.0,68.0,69.0,70.0,71.0,72.0
+PHL,Urban,Population using at least basic sanitation services (%),75.0,76.0,76.0,76.0,76.0,77.0,77.0,77.0,77.0,78.0,78.0,78.0,78.0,78.0,79.0,79.0
+PHL,Total,Population using at least basic sanitation services (%),67.0,67.0,68.0,68.0,69.0,70.0,70.0,71.0,71.0,72.0,72.0,73.0,73.0,74.0,74.0,75.0
+PHL,Rural,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+PHL,Urban,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+PHL,Total,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+POL,Rural,Population using at least basic sanitation services (%),76.0,77.0,79.0,80.0,82.0,83.0,85.0,86.0,88.0,89.0,91.0,92.0,94.0,95.0,97.0,98.0
+POL,Urban,Population using at least basic sanitation services (%),94.0,94.0,94.0,95.0,95.0,95.0,96.0,96.0,96.0,96.0,97.0,97.0,97.0,98.0,98.0,98.0
+POL,Total,Population using at least basic sanitation services (%),87.0,88.0,89.0,89.0,90.0,91.0,91.0,92.0,93.0,94.0,94.0,95.0,96.0,97.0,97.0,98.0
+POL,Rural,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+POL,Urban,Population using safely managed sanitation services (%),87.0,87.0,87.0,87.0,88.0,88.0,88.0,89.0,89.0,89.0,90.0,90.0,90.0,90.0,91.0,91.0
+POL,Total,Population using safely managed sanitation services (%),71.0,71.0,72.0,72.0,72.0,73.0,73.0,74.0,74.0,75.0,75.0,76.0,76.0,76.0,77.0,77.0
+PRT,Rural,Population using at least basic sanitation services (%),96.0,96.0,96.0,97.0,97.0,97.0,97.0,98.0,98.0,98.0,98.0,99.0,99.0,99.0,99.0,100.0
+PRT,Urban,Population using at least basic sanitation services (%),98.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0
+PRT,Total,Population using at least basic sanitation services (%),97.0,97.0,98.0,98.0,98.0,98.0,98.0,98.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0
+PRT,Rural,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+PRT,Urban,Population using safely managed sanitation services (%),65.0,65.0,65.0,65.0,65.0,65.0,65.0,65.0,65.0,65.0,65.0,65.0,65.0,65.0,65.0,65.0
+PRT,Total,Population using safely managed sanitation services (%),60.0,60.0,60.0,60.0,60.0,60.0,61.0,61.0,61.0,61.0,61.0,61.0,61.0,61.0,62.0,62.0
+QAT,Rural,Population using at least basic sanitation services (%),,,,,,,,,,,,,,,,
+QAT,Urban,Population using at least basic sanitation services (%),,,,,,,,,,,,,,,,
+QAT,Total,Population using at least basic sanitation services (%),,,99.0,99.0,99.0,99.0,99.0,99.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+QAT,Rural,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+QAT,Urban,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+QAT,Total,Population using safely managed sanitation services (%),,,88.0,88.0,88.0,88.0,88.0,88.0,88.0,88.0,88.0,88.0,88.0,88.0,88.0,88.0
+KOR,Rural,Population using at least basic sanitation services (%),,,,,,,,,,,,,,,,
+KOR,Urban,Population using at least basic sanitation services (%),,,,,,,,,,,,,,,,
+KOR,Total,Population using at least basic sanitation services (%),100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+KOR,Rural,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+KOR,Urban,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+KOR,Total,Population using safely managed sanitation services (%),86.0,86.0,87.0,88.0,89.0,90.0,91.0,92.0,93.0,93.0,94.0,95.0,96.0,97.0,98.0,98.0
+MDA,Rural,Population using at least basic sanitation services (%),60.0,61.0,61.0,62.0,63.0,63.0,64.0,65.0,65.0,66.0,67.0,67.0,68.0,69.0,69.0,70.0
+MDA,Urban,Population using at least basic sanitation services (%),86.0,86.0,87.0,87.0,87.0,87.0,87.0,87.0,88.0,88.0,88.0,88.0,88.0,88.0,89.0,89.0
+MDA,Total,Population using at least basic sanitation services (%),72.0,73.0,73.0,73.0,74.0,74.0,75.0,75.0,75.0,76.0,76.0,77.0,77.0,78.0,78.0,78.0
+MDA,Rural,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+MDA,Urban,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+MDA,Total,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+MKD,Rural,Population using at least basic sanitation services (%),85.0,85.0,85.0,85.0,85.0,85.0,84.0,84.0,84.0,84.0,83.0,83.0,83.0,83.0,83.0,83.0
+MKD,Urban,Population using at least basic sanitation services (%),93.0,93.0,93.0,93.0,93.0,94.0,94.0,95.0,95.0,96.0,96.0,97.0,97.0,97.0,97.0,97.0
+MKD,Total,Population using at least basic sanitation services (%),90.0,90.0,90.0,90.0,90.0,90.0,90.0,90.0,90.0,91.0,91.0,91.0,91.0,91.0,91.0,91.0
+MKD,Rural,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+MKD,Urban,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+MKD,Total,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+ROU,Rural,Population using at least basic sanitation services (%),,,,,,,68.0,68.0,68.0,68.0,68.0,68.0,68.0,68.0,68.0,68.0
+ROU,Urban,Population using at least basic sanitation services (%),,,,,,,93.0,93.0,93.0,93.0,93.0,93.0,93.0,93.0,93.0,93.0
+ROU,Total,Population using at least basic sanitation services (%),,,,,,,81.0,82.0,82.0,82.0,82.0,82.0,82.0,82.0,82.0,82.0
+ROU,Rural,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+ROU,Urban,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+ROU,Total,Population using safely managed sanitation services (%),,,,,,,45.0,46.0,47.0,48.0,49.0,51.0,52.0,54.0,55.0,57.0
+RUS,Rural,Population using at least basic sanitation services (%),55.0,56.0,58.0,59.0,60.0,62.0,63.0,65.0,66.0,67.0,69.0,70.0,72.0,73.0,74.0,76.0
+RUS,Urban,Population using at least basic sanitation services (%),94.0,94.0,94.0,94.0,94.0,94.0,94.0,94.0,94.0,94.0,94.0,94.0,94.0,93.0,93.0,93.0
+RUS,Total,Population using at least basic sanitation services (%),84.0,84.0,84.0,85.0,85.0,85.0,86.0,86.0,86.0,87.0,87.0,87.0,88.0,88.0,88.0,89.0
+RUS,Rural,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+RUS,Urban,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+RUS,Total,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+RWA,Rural,Population using at least basic sanitation services (%),42.0,43.0,45.0,46.0,48.0,49.0,51.0,52.0,54.0,55.0,57.0,58.0,60.0,61.0,63.0,64.0
+RWA,Urban,Population using at least basic sanitation services (%),57.0,57.0,57.0,57.0,57.0,57.0,57.0,57.0,57.0,57.0,57.0,57.0,57.0,57.0,57.0,57.0
+RWA,Total,Population using at least basic sanitation services (%),44.0,46.0,47.0,48.0,50.0,51.0,52.0,53.0,55.0,56.0,57.0,58.0,59.0,60.0,61.0,62.0
+RWA,Rural,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+RWA,Urban,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+RWA,Total,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+KNA,Rural,Population using at least basic sanitation services (%),,,,,,,,,,,,,,,,
+KNA,Urban,Population using at least basic sanitation services (%),,,,,,,,,,,,,,,,
+KNA,Total,Population using at least basic sanitation services (%),85.0,86.0,87.0,87.0,88.0,89.0,90.0,90.0,91.0,92.0,92.0,92.0,92.0,92.0,,
+KNA,Rural,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+KNA,Urban,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+KNA,Total,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+LCA,Rural,Population using at least basic sanitation services (%),80.0,80.0,80.0,80.0,81.0,82.0,84.0,85.0,86.0,87.0,89.0,90.0,91.0,92.0,92.0,92.0
+LCA,Urban,Population using at least basic sanitation services (%),75.0,75.0,75.0,75.0,76.0,77.0,78.0,79.0,80.0,81.0,82.0,83.0,84.0,85.0,86.0,86.0
+LCA,Total,Population using at least basic sanitation services (%),79.0,79.0,79.0,79.0,80.0,81.0,82.0,84.0,85.0,86.0,87.0,89.0,90.0,91.0,91.0,91.0
+LCA,Rural,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+LCA,Urban,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+LCA,Total,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+VCT,Rural,Population using at least basic sanitation services (%),,,,,,,,,,,,,,,,
+VCT,Urban,Population using at least basic sanitation services (%),,,,,,,,,,,,,,,,
+VCT,Total,Population using at least basic sanitation services (%),71.0,72.0,73.0,74.0,76.0,77.0,78.0,79.0,80.0,81.0,83.0,84.0,85.0,86.0,87.0,87.0
+VCT,Rural,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+VCT,Urban,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+VCT,Total,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+WSM,Rural,Population using at least basic sanitation services (%),98.0,98.0,98.0,98.0,98.0,98.0,98.0,98.0,98.0,97.0,97.0,97.0,97.0,97.0,96.0,96.0
+WSM,Urban,Population using at least basic sanitation services (%),99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,98.0,98.0,98.0
+WSM,Total,Population using at least basic sanitation services (%),99.0,99.0,99.0,99.0,99.0,98.0,98.0,98.0,98.0,98.0,98.0,97.0,97.0,97.0,97.0,97.0
+WSM,Rural,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+WSM,Urban,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+WSM,Total,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+SMR,Rural,Population using at least basic sanitation services (%),,,,,,,,,,,,,,,,
+SMR,Urban,Population using at least basic sanitation services (%),,,,,,,,,,,,,,,,
+SMR,Total,Population using at least basic sanitation services (%),100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+SMR,Rural,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+SMR,Urban,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+SMR,Total,Population using safely managed sanitation services (%),78.0,78.0,78.0,78.0,78.0,78.0,78.0,78.0,78.0,78.0,78.0,78.0,78.0,78.0,78.0,78.0
+STP,Rural,Population using at least basic sanitation services (%),15.0,16.0,17.0,17.0,18.0,19.0,20.0,21.0,22.0,23.0,24.0,25.0,25.0,26.0,27.0,28.0
+STP,Urban,Population using at least basic sanitation services (%),26.0,27.0,29.0,30.0,32.0,33.0,34.0,36.0,37.0,38.0,40.0,41.0,42.0,44.0,45.0,47.0
+STP,Total,Population using at least basic sanitation services (%),21.0,22.0,23.0,25.0,26.0,27.0,28.0,30.0,31.0,32.0,34.0,35.0,36.0,38.0,39.0,40.0
+STP,Rural,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+STP,Urban,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+STP,Total,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+SAU,Rural,Population using at least basic sanitation services (%),,,,,,,,,,,,,,,,
+SAU,Urban,Population using at least basic sanitation services (%),,,,,,,,,,,,,,,,
+SAU,Total,Population using at least basic sanitation services (%),98.0,98.0,98.0,98.0,99.0,99.0,99.0,99.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+SAU,Rural,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+SAU,Urban,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+SAU,Total,Population using safely managed sanitation services (%),64.0,64.0,64.0,66.0,68.0,70.0,72.0,74.0,76.0,78.0,81.0,83.0,84.0,84.0,84.0,84.0
+SEN,Rural,Population using at least basic sanitation services (%),25.0,25.0,26.0,27.0,27.0,28.0,29.0,29.0,30.0,31.0,31.0,32.0,33.0,33.0,34.0,35.0
+SEN,Urban,Population using at least basic sanitation services (%),59.0,60.0,60.0,61.0,61.0,61.0,62.0,62.0,63.0,63.0,64.0,64.0,65.0,65.0,65.0,66.0
+SEN,Total,Population using at least basic sanitation services (%),39.0,39.0,40.0,40.0,41.0,42.0,42.0,43.0,44.0,44.0,45.0,46.0,46.0,47.0,48.0,48.0
+SEN,Rural,Population using safely managed sanitation services (%),16.0,16.0,16.0,17.0,17.0,18.0,18.0,19.0,19.0,19.0,20.0,20.0,21.0,21.0,22.0,22.0
+SEN,Urban,Population using safely managed sanitation services (%),20.0,21.0,21.0,21.0,21.0,22.0,22.0,22.0,22.0,23.0,23.0,23.0,23.0,24.0,24.0,24.0
+SEN,Total,Population using safely managed sanitation services (%),18.0,18.0,18.0,19.0,19.0,20.0,20.0,21.0,21.0,21.0,22.0,22.0,23.0,23.0,24.0,24.0
+SRB,Rural,Population using at least basic sanitation services (%),97.0,97.0,96.0,96.0,95.0,95.0,95.0,94.0,94.0,93.0,93.0,92.0,92.0,92.0,91.0,91.0
+SRB,Urban,Population using at least basic sanitation services (%),98.0,98.0,98.0,98.0,98.0,98.0,98.0,98.0,98.0,98.0,98.0,98.0,98.0,98.0,98.0,98.0
+SRB,Total,Population using at least basic sanitation services (%),98.0,97.0,97.0,97.0,97.0,97.0,96.0,96.0,96.0,96.0,96.0,95.0,95.0,95.0,95.0,95.0
+SRB,Rural,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+SRB,Urban,Population using safely managed sanitation services (%),17.0,17.0,17.0,17.0,17.0,17.0,17.0,16.0,16.0,16.0,15.0,15.0,15.0,14.0,14.0,14.0
+SRB,Total,Population using safely managed sanitation services (%),29.0,29.0,29.0,29.0,29.0,28.0,28.0,27.0,27.0,27.0,26.0,26.0,25.0,25.0,24.0,24.0
+SYC,Rural,Population using at least basic sanitation services (%),,,,,,,,,,,,,,,,
+SYC,Urban,Population using at least basic sanitation services (%),,,,,,,,,,,,,,,,
+SYC,Total,Population using at least basic sanitation services (%),94.0,95.0,95.0,95.0,96.0,96.0,97.0,97.0,98.0,98.0,98.0,99.0,99.0,100.0,100.0,100.0
+SYC,Rural,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+SYC,Urban,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+SYC,Total,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+SLE,Rural,Population using at least basic sanitation services (%),4.0,4.0,5.0,5.0,5.0,6.0,6.0,6.0,6.0,7.0,7.0,7.0,8.0,8.0,8.0,8.0
+SLE,Urban,Population using at least basic sanitation services (%),21.0,21.0,21.0,21.0,21.0,22.0,22.0,22.0,22.0,23.0,23.0,23.0,23.0,23.0,24.0,24.0
+SLE,Total,Population using at least basic sanitation services (%),10.0,10.0,11.0,11.0,11.0,12.0,12.0,12.0,12.0,13.0,13.0,13.0,14.0,14.0,14.0,15.0
+SLE,Rural,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+SLE,Urban,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+SLE,Total,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+SGP,Rural,Population using at least basic sanitation services (%),,,,,,,,,,,,,,,,
+SGP,Urban,Population using at least basic sanitation services (%),100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+SGP,Total,Population using at least basic sanitation services (%),100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+SGP,Rural,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+SGP,Urban,Population using safely managed sanitation services (%),100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+SGP,Total,Population using safely managed sanitation services (%),100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+SVK,Rural,Population using at least basic sanitation services (%),98.0,98.0,98.0,98.0,98.0,98.0,98.0,98.0,98.0,98.0,98.0,98.0,98.0,98.0,98.0,98.0
+SVK,Urban,Population using at least basic sanitation services (%),99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0
+SVK,Total,Population using at least basic sanitation services (%),99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0
+SVK,Rural,Population using safely managed sanitation services (%),75.0,75.0,75.0,75.0,75.0,75.0,75.0,75.0,75.0,75.0,75.0,75.0,75.0,75.0,75.0,75.0
+SVK,Urban,Population using safely managed sanitation services (%),88.0,88.0,88.0,88.0,88.0,88.0,88.0,88.0,88.0,88.0,88.0,88.0,88.0,88.0,88.0,88.0
+SVK,Total,Population using safely managed sanitation services (%),82.0,82.0,82.0,82.0,82.0,82.0,82.0,82.0,82.0,82.0,82.0,82.0,82.0,82.0,82.0,82.0
+SVN,Rural,Population using at least basic sanitation services (%),99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0
+SVN,Urban,Population using at least basic sanitation services (%),99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0
+SVN,Total,Population using at least basic sanitation services (%),99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0
+SVN,Rural,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+SVN,Urban,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+SVN,Total,Population using safely managed sanitation services (%),74.0,74.0,74.0,74.0,73.0,74.0,74.0,74.0,75.0,75.0,75.0,76.0,76.0,76.0,76.0,76.0
+SLB,Rural,Population using at least basic sanitation services (%),13.0,13.0,13.0,13.0,13.0,14.0,14.0,14.0,15.0,15.0,16.0,16.0,17.0,17.0,18.0,18.0
+SLB,Urban,Population using at least basic sanitation services (%),62.0,62.0,62.0,62.0,62.0,64.0,66.0,67.0,69.0,71.0,72.0,74.0,76.0,76.0,76.0,76.0
+SLB,Total,Population using at least basic sanitation services (%),21.0,21.0,21.0,21.0,22.0,23.0,23.0,24.0,25.0,26.0,27.0,28.0,29.0,30.0,31.0,31.0
+SLB,Rural,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+SLB,Urban,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+SLB,Total,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+SOM,Rural,Population using at least basic sanitation services (%),9.0,9.0,9.0,9.0,9.0,9.0,8.0,8.0,8.0,8.0,8.0,8.0,8.0,8.0,8.0,8.0
+SOM,Urban,Population using at least basic sanitation services (%),50.0,48.0,47.0,46.0,44.0,43.0,41.0,40.0,38.0,37.0,36.0,34.0,33.0,31.0,30.0,28.0
+SOM,Total,Population using at least basic sanitation services (%),22.0,22.0,22.0,21.0,21.0,21.0,20.0,20.0,19.0,19.0,19.0,18.0,18.0,17.0,17.0,16.0
+SOM,Rural,Population using safely managed sanitation services (%),8.0,8.0,8.0,8.0,8.0,8.0,8.0,8.0,8.0,8.0,7.0,7.0,7.0,7.0,7.0,7.0
+SOM,Urban,Population using safely managed sanitation services (%),43.0,42.0,40.0,39.0,38.0,37.0,35.0,34.0,33.0,32.0,30.0,29.0,28.0,27.0,26.0,24.0
+SOM,Total,Population using safely managed sanitation services (%),20.0,19.0,19.0,19.0,18.0,18.0,18.0,17.0,17.0,16.0,16.0,16.0,15.0,15.0,15.0,14.0
+ZAF,Rural,Population using at least basic sanitation services (%),45.0,46.0,48.0,49.0,51.0,53.0,54.0,56.0,57.0,59.0,61.0,62.0,64.0,65.0,67.0,69.0
+ZAF,Urban,Population using at least basic sanitation services (%),71.0,71.0,71.0,72.0,72.0,72.0,73.0,73.0,73.0,74.0,74.0,74.0,75.0,75.0,75.0,76.0
+ZAF,Total,Population using at least basic sanitation services (%),59.0,60.0,61.0,62.0,63.0,64.0,65.0,66.0,67.0,68.0,69.0,70.0,71.0,71.0,72.0,73.0
+ZAF,Rural,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+ZAF,Urban,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+ZAF,Total,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+ESP,Rural,Population using at least basic sanitation services (%),100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+ESP,Urban,Population using at least basic sanitation services (%),100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+ESP,Total,Population using at least basic sanitation services (%),100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+ESP,Rural,Population using safely managed sanitation services (%),93.0,93.0,93.0,93.0,93.0,93.0,94.0,94.0,95.0,95.0,96.0,96.0,97.0,97.0,97.0,98.0
+ESP,Urban,Population using safely managed sanitation services (%),94.0,94.0,94.0,94.0,94.0,94.0,95.0,95.0,95.0,96.0,96.0,96.0,97.0,97.0,97.0,97.0
+ESP,Total,Population using safely managed sanitation services (%),94.0,94.0,94.0,94.0,94.0,94.0,95.0,95.0,95.0,96.0,96.0,96.0,97.0,97.0,97.0,97.0
+LKA,Rural,Population using at least basic sanitation services (%),85.0,85.0,86.0,87.0,88.0,88.0,89.0,90.0,91.0,92.0,92.0,93.0,94.0,95.0,95.0,95.0
+LKA,Urban,Population using at least basic sanitation services (%),89.0,89.0,89.0,89.0,89.0,89.0,89.0,89.0,89.0,89.0,89.0,89.0,89.0,89.0,89.0,89.0
+LKA,Total,Population using at least basic sanitation services (%),85.0,86.0,87.0,87.0,88.0,89.0,89.0,90.0,90.0,91.0,92.0,92.0,93.0,94.0,94.0,94.0
+LKA,Rural,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+LKA,Urban,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+LKA,Total,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+SDN,Rural,Population using at least basic sanitation services (%),11.0,11.0,11.0,11.0,11.0,12.0,13.0,14.0,15.0,16.0,18.0,19.0,20.0,21.0,22.0,23.0
+SDN,Urban,Population using at least basic sanitation services (%),41.0,41.0,41.0,41.0,41.0,43.0,44.0,46.0,47.0,49.0,50.0,52.0,53.0,55.0,56.0,58.0
+SDN,Total,Population using at least basic sanitation services (%),21.0,21.0,21.0,21.0,21.0,22.0,23.0,25.0,26.0,27.0,28.0,30.0,31.0,32.0,33.0,35.0
+SDN,Rural,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+SDN,Urban,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+SDN,Total,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+SUR,Rural,Population using at least basic sanitation services (%),63.0,63.0,63.0,63.0,63.0,63.0,62.0,62.0,62.0,62.0,62.0,62.0,61.0,61.0,61.0,61.0
+SUR,Urban,Population using at least basic sanitation services (%),90.0,90.0,90.0,89.0,89.0,89.0,89.0,89.0,89.0,89.0,89.0,89.0,88.0,88.0,88.0,88.0
+SUR,Total,Population using at least basic sanitation services (%),81.0,81.0,81.0,81.0,80.0,80.0,80.0,80.0,80.0,80.0,80.0,79.0,79.0,79.0,79.0,79.0
+SUR,Rural,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+SUR,Urban,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+SUR,Total,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+SWE,Rural,Population using at least basic sanitation services (%),100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+SWE,Urban,Population using at least basic sanitation services (%),99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0
+SWE,Total,Population using at least basic sanitation services (%),99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0
+SWE,Rural,Population using safely managed sanitation services (%),86.0,86.0,87.0,87.0,87.0,87.0,87.0,87.0,87.0,87.0,87.0,87.0,87.0,87.0,87.0,87.0
+SWE,Urban,Population using safely managed sanitation services (%),92.0,92.0,92.0,92.0,92.0,92.0,93.0,93.0,93.0,93.0,93.0,93.0,93.0,93.0,93.0,93.0
+SWE,Total,Population using safely managed sanitation services (%),91.0,91.0,91.0,91.0,91.0,92.0,92.0,92.0,92.0,92.0,92.0,92.0,92.0,92.0,92.0,92.0
+CHE,Rural,Population using at least basic sanitation services (%),100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+CHE,Urban,Population using at least basic sanitation services (%),100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+CHE,Total,Population using at least basic sanitation services (%),100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+CHE,Rural,Population using safely managed sanitation services (%),98.0,98.0,98.0,98.0,98.0,98.0,97.0,97.0,97.0,97.0,97.0,97.0,97.0,97.0,97.0,96.0
+CHE,Urban,Population using safely managed sanitation services (%),98.0,98.0,98.0,98.0,98.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,100.0,100.0,100.0,100.0
+CHE,Total,Population using safely managed sanitation services (%),98.0,98.0,98.0,98.0,98.0,98.0,98.0,98.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0
+SYR,Rural,Population using at least basic sanitation services (%),90.0,90.0,90.0,90.0,90.0,90.0,90.0,90.0,89.0,89.0,89.0,89.0,89.0,89.0,89.0,89.0
+SYR,Urban,Population using at least basic sanitation services (%),96.0,96.0,96.0,96.0,96.0,96.0,96.0,96.0,96.0,96.0,96.0,96.0,96.0,96.0,96.0,96.0
+SYR,Total,Population using at least basic sanitation services (%),93.0,93.0,93.0,93.0,93.0,93.0,93.0,93.0,93.0,93.0,93.0,93.0,93.0,93.0,93.0,93.0
+SYR,Rural,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+SYR,Urban,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+SYR,Total,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+TJK,Rural,Population using at least basic sanitation services (%),89.0,90.0,90.0,91.0,91.0,92.0,92.0,93.0,93.0,94.0,94.0,95.0,95.0,96.0,96.0,96.0
+TJK,Urban,Population using at least basic sanitation services (%),92.0,92.0,92.0,93.0,93.0,93.0,93.0,93.0,93.0,93.0,93.0,94.0,94.0,94.0,94.0,94.0
+TJK,Total,Population using at least basic sanitation services (%),90.0,90.0,91.0,91.0,91.0,92.0,92.0,93.0,93.0,93.0,94.0,94.0,95.0,95.0,95.0,95.0
+TJK,Rural,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+TJK,Urban,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+TJK,Total,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+THA,Rural,Population using at least basic sanitation services (%),95.0,95.0,95.0,96.0,96.0,96.0,96.0,96.0,96.0,96.0,96.0,96.0,96.0,96.0,96.0,96.0
+THA,Urban,Population using at least basic sanitation services (%),94.0,94.0,94.0,94.0,94.0,94.0,94.0,94.0,94.0,94.0,94.0,94.0,94.0,94.0,94.0,94.0
+THA,Total,Population using at least basic sanitation services (%),95.0,95.0,95.0,95.0,95.0,95.0,95.0,95.0,95.0,95.0,95.0,95.0,95.0,95.0,95.0,95.0
+THA,Rural,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+THA,Urban,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+THA,Total,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+TLS,Rural,Population using at least basic sanitation services (%),,,27.0,27.0,28.0,28.0,28.0,28.0,29.0,29.0,29.0,29.0,29.0,30.0,30.0,30.0
+TLS,Urban,Population using at least basic sanitation services (%),,,54.0,56.0,57.0,59.0,60.0,61.0,63.0,64.0,66.0,67.0,68.0,70.0,71.0,73.0
+TLS,Total,Population using at least basic sanitation services (%),,,34.0,35.0,35.0,36.0,37.0,37.0,38.0,39.0,40.0,41.0,41.0,42.0,43.0,44.0
+TLS,Rural,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+TLS,Urban,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+TLS,Total,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+TGO,Rural,Population using at least basic sanitation services (%),4.0,4.0,4.0,4.0,4.0,4.0,4.0,4.0,4.0,4.0,4.0,4.0,4.0,5.0,5.0,5.0
+TGO,Urban,Population using at least basic sanitation services (%),25.0,25.0,25.0,25.0,25.0,26.0,26.0,26.0,26.0,27.0,27.0,27.0,27.0,28.0,28.0,28.0
+TGO,Total,Population using at least basic sanitation services (%),11.0,11.0,11.0,12.0,12.0,12.0,12.0,12.0,12.0,13.0,13.0,13.0,13.0,14.0,14.0,14.0
+TGO,Rural,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+TGO,Urban,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+TGO,Total,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+TON,Rural,Population using at least basic sanitation services (%),86.0,86.0,86.0,86.0,86.0,86.0,87.0,88.0,88.0,89.0,90.0,90.0,91.0,92.0,92.0,92.0
+TON,Urban,Population using at least basic sanitation services (%),99.0,99.0,99.0,99.0,99.0,99.0,98.0,98.0,98.0,98.0,98.0,97.0,97.0,97.0,97.0,97.0
+TON,Total,Population using at least basic sanitation services (%),89.0,89.0,89.0,89.0,89.0,89.0,90.0,90.0,91.0,91.0,92.0,92.0,93.0,93.0,93.0,93.0
+TON,Rural,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+TON,Urban,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+TON,Total,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+TTO,Rural,Population using at least basic sanitation services (%),,,,,,,,,,,,,,,,
+TTO,Urban,Population using at least basic sanitation services (%),,,,,,,,,,,,,,,,
+TTO,Total,Population using at least basic sanitation services (%),91.0,91.0,91.0,91.0,91.0,91.0,91.0,92.0,92.0,92.0,92.0,92.0,92.0,92.0,92.0,92.0
+TTO,Rural,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+TTO,Urban,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+TTO,Total,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+TUN,Rural,Population using at least basic sanitation services (%),56.0,58.0,60.0,62.0,64.0,65.0,67.0,69.0,71.0,72.0,74.0,76.0,78.0,80.0,81.0,83.0
+TUN,Urban,Population using at least basic sanitation services (%),94.0,95.0,95.0,95.0,95.0,96.0,96.0,96.0,96.0,97.0,97.0,97.0,98.0,98.0,98.0,98.0
+TUN,Total,Population using at least basic sanitation services (%),80.0,81.0,82.0,83.0,84.0,85.0,86.0,87.0,88.0,88.0,89.0,90.0,91.0,92.0,93.0,93.0
+TUN,Rural,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+TUN,Urban,Population using safely managed sanitation services (%),74.0,75.0,75.0,77.0,78.0,79.0,80.0,81.0,82.0,84.0,85.0,86.0,87.0,88.0,89.0,89.0
+TUN,Total,Population using safely managed sanitation services (%),58.0,59.0,59.0,61.0,62.0,63.0,64.0,65.0,67.0,68.0,69.0,70.0,71.0,72.0,73.0,73.0
+TUR,Rural,Population using at least basic sanitation services (%),70.0,70.0,71.0,73.0,74.0,75.0,77.0,78.0,79.0,81.0,82.0,84.0,85.0,86.0,88.0,89.0
+TUR,Urban,Population using at least basic sanitation services (%),90.0,90.0,90.0,91.0,92.0,92.0,93.0,94.0,95.0,95.0,96.0,97.0,98.0,98.0,99.0,99.0
+TUR,Total,Population using at least basic sanitation services (%),83.0,83.0,84.0,85.0,86.0,87.0,88.0,89.0,90.0,91.0,92.0,93.0,94.0,95.0,96.0,96.0
+TUR,Rural,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+TUR,Urban,Population using safely managed sanitation services (%),43.0,43.0,44.0,44.0,44.0,45.0,45.0,45.0,46.0,46.0,47.0,47.0,47.0,48.0,48.0,48.0
+TUR,Total,Population using safely managed sanitation services (%),23.0,23.0,23.0,23.0,25.0,27.0,29.0,30.0,32.0,34.0,36.0,38.0,40.0,42.0,44.0,44.0
+TKM,Rural,Population using at least basic sanitation services (%),96.0,96.0,97.0,97.0,97.0,97.0,97.0,97.0,98.0,98.0,98.0,98.0,98.0,98.0,99.0,99.0
+TKM,Urban,Population using at least basic sanitation services (%),94.0,94.0,94.0,94.0,94.0,94.0,94.0,94.0,94.0,94.0,94.0,94.0,94.0,94.0,94.0,94.0
+TKM,Total,Population using at least basic sanitation services (%),95.0,95.0,95.0,95.0,96.0,96.0,96.0,96.0,96.0,96.0,96.0,96.0,96.0,96.0,96.0,97.0
+TKM,Rural,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+TKM,Urban,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+TKM,Total,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+TUV,Rural,Population using at least basic sanitation services (%),,80.0,80.0,80.0,80.0,80.0,81.0,82.0,84.0,85.0,87.0,88.0,90.0,91.0,91.0,91.0
+TUV,Urban,Population using at least basic sanitation services (%),,94.0,94.0,94.0,94.0,94.0,94.0,94.0,93.0,93.0,93.0,92.0,92.0,92.0,92.0,92.0
+TUV,Total,Population using at least basic sanitation services (%),,86.0,86.0,86.0,87.0,87.0,87.0,88.0,89.0,89.0,90.0,91.0,91.0,92.0,91.0,91.0
+TUV,Rural,Population using safely managed sanitation services (%),,8.0,8.0,8.0,8.0,8.0,9.0,10.0,10.0,11.0,12.0,13.0,13.0,14.0,14.0,14.0
+TUV,Urban,Population using safely managed sanitation services (%),,7.0,7.0,7.0,7.0,7.0,7.0,6.0,6.0,6.0,6.0,6.0,6.0,6.0,6.0,6.0
+TUV,Total,Population using safely managed sanitation services (%),,8.0,8.0,8.0,8.0,8.0,8.0,8.0,8.0,9.0,9.0,9.0,9.0,9.0,9.0,9.0
+UGA,Rural,Population using at least basic sanitation services (%),14.0,14.0,14.0,14.0,15.0,15.0,15.0,15.0,16.0,16.0,16.0,16.0,17.0,17.0,17.0,17.0
+UGA,Urban,Population using at least basic sanitation services (%),29.0,29.0,29.0,29.0,29.0,28.0,28.0,28.0,28.0,28.0,28.0,28.0,28.0,28.0,28.0,28.0
+UGA,Total,Population using at least basic sanitation services (%),15.0,16.0,16.0,16.0,16.0,17.0,17.0,17.0,17.0,18.0,18.0,18.0,18.0,19.0,19.0,19.0
+UGA,Rural,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+UGA,Urban,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+UGA,Total,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+UKR,Rural,Population using at least basic sanitation services (%),90.0,90.0,90.0,90.0,91.0,91.0,91.0,91.0,91.0,92.0,92.0,92.0,92.0,92.0,93.0,93.0
+UKR,Urban,Population using at least basic sanitation services (%),97.0,97.0,97.0,97.0,97.0,97.0,97.0,97.0,97.0,97.0,97.0,97.0,97.0,97.0,97.0,97.0
+UKR,Total,Population using at least basic sanitation services (%),95.0,95.0,95.0,95.0,95.0,95.0,95.0,95.0,95.0,95.0,96.0,96.0,96.0,96.0,96.0,96.0
+UKR,Rural,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+UKR,Urban,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+UKR,Total,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+ARE,Rural,Population using at least basic sanitation services (%),100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+ARE,Urban,Population using at least basic sanitation services (%),100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+ARE,Total,Population using at least basic sanitation services (%),100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+ARE,Rural,Population using safely managed sanitation services (%),81.0,81.0,81.0,81.0,81.0,81.0,81.0,81.0,81.0,81.0,81.0,81.0,81.0,81.0,81.0,81.0
+ARE,Urban,Population using safely managed sanitation services (%),95.0,95.0,95.0,95.0,95.0,95.0,95.0,95.0,95.0,95.0,95.0,95.0,95.0,95.0,95.0,95.0
+ARE,Total,Population using safely managed sanitation services (%),93.0,93.0,93.0,93.0,93.0,93.0,93.0,93.0,93.0,93.0,93.0,93.0,93.0,93.0,93.0,93.0
+GBR,Rural,Population using at least basic sanitation services (%),99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0
+GBR,Urban,Population using at least basic sanitation services (%),99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0
+GBR,Total,Population using at least basic sanitation services (%),99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0
+GBR,Rural,Population using safely managed sanitation services (%),92.0,92.0,92.0,92.0,92.0,92.0,92.0,92.0,92.0,92.0,92.0,92.0,92.0,92.0,92.0,92.0
+GBR,Urban,Population using safely managed sanitation services (%),99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0,99.0
+GBR,Total,Population using safely managed sanitation services (%),97.0,97.0,97.0,97.0,97.0,97.0,97.0,97.0,98.0,98.0,98.0,98.0,98.0,98.0,98.0,98.0
+TZA,Rural,Population using at least basic sanitation services (%),5.0,6.0,7.0,8.0,8.0,9.0,10.0,11.0,12.0,12.0,13.0,14.0,15.0,16.0,16.0,17.0
+TZA,Urban,Population using at least basic sanitation services (%),12.0,13.0,15.0,17.0,18.0,20.0,22.0,24.0,25.0,27.0,29.0,30.0,32.0,34.0,35.0,37.0
+TZA,Total,Population using at least basic sanitation services (%),7.0,8.0,9.0,10.0,11.0,12.0,13.0,14.0,15.0,16.0,18.0,19.0,20.0,21.0,22.0,24.0
+TZA,Rural,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+TZA,Urban,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+TZA,Total,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+USA,Rural,Population using at least basic sanitation services (%),100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+USA,Urban,Population using at least basic sanitation services (%),100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+USA,Total,Population using at least basic sanitation services (%),100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+USA,Rural,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+USA,Urban,Population using safely managed sanitation services (%),95.0,95.0,95.0,95.0,95.0,95.0,95.0,95.0,95.0,95.0,95.0,95.0,95.0,95.0,95.0,95.0
+USA,Total,Population using safely managed sanitation services (%),89.0,89.0,89.0,89.0,89.0,89.0,89.0,89.0,89.0,89.0,89.0,89.0,89.0,89.0,89.0,89.0
+URY,Rural,Population using at least basic sanitation services (%),85.0,85.0,85.0,85.0,85.0,86.0,87.0,88.0,89.0,90.0,90.0,91.0,92.0,93.0,94.0,95.0
+URY,Urban,Population using at least basic sanitation services (%),95.0,95.0,95.0,95.0,95.0,95.0,95.0,95.0,95.0,95.0,95.0,95.0,95.0,96.0,96.0,96.0
+URY,Total,Population using at least basic sanitation services (%),94.0,94.0,94.0,94.0,94.0,94.0,95.0,95.0,95.0,95.0,95.0,95.0,95.0,95.0,96.0,96.0
+URY,Rural,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+URY,Urban,Population using safely managed sanitation services (%),63.0,63.0,63.0,63.0,63.0,63.0,63.0,63.0,64.0,64.0,64.0,64.0,64.0,64.0,64.0,64.0
+URY,Total,Population using safely managed sanitation services (%),62.0,62.0,62.0,62.0,62.0,62.0,62.0,62.0,62.0,63.0,63.0,63.0,63.0,63.0,63.0,64.0
+UZB,Rural,Population using at least basic sanitation services (%),85.0,87.0,90.0,92.0,95.0,97.0,99.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+UZB,Urban,Population using at least basic sanitation services (%),97.0,97.0,98.0,98.0,99.0,99.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+UZB,Total,Population using at least basic sanitation services (%),89.0,91.0,93.0,94.0,96.0,98.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+UZB,Rural,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+UZB,Urban,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+UZB,Total,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+VUT,Rural,Population using at least basic sanitation services (%),51.0,51.0,51.0,51.0,51.0,51.0,51.0,51.0,51.0,51.0,51.0,51.0,51.0,51.0,51.0,51.0
+VUT,Urban,Population using at least basic sanitation services (%),61.0,61.0,61.0,61.0,61.0,61.0,61.0,61.0,61.0,61.0,61.0,61.0,61.0,61.0,61.0,61.0
+VUT,Total,Population using at least basic sanitation services (%),53.0,53.0,53.0,53.0,53.0,53.0,53.0,53.0,53.0,53.0,53.0,53.0,53.0,53.0,53.0,53.0
+VUT,Rural,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+VUT,Urban,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+VUT,Total,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+VEN,Rural,Population using at least basic sanitation services (%),52.0,54.0,56.0,57.0,59.0,60.0,62.0,63.0,65.0,66.0,68.0,69.0,71.0,72.0,72.0,72.0
+VEN,Urban,Population using at least basic sanitation services (%),92.0,92.0,93.0,93.0,94.0,94.0,95.0,95.0,96.0,96.0,96.0,97.0,97.0,98.0,98.0,98.0
+VEN,Total,Population using at least basic sanitation services (%),87.0,88.0,89.0,89.0,90.0,90.0,91.0,91.0,92.0,93.0,93.0,94.0,94.0,95.0,95.0,95.0
+VEN,Rural,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+VEN,Urban,Population using safely managed sanitation services (%),17.0,17.0,17.0,17.0,17.0,17.0,17.0,17.0,17.0,17.0,17.0,17.0,17.0,17.0,17.0,17.0
+VEN,Total,Population using safely managed sanitation services (%),17.0,18.0,18.0,18.0,18.0,18.0,18.0,18.0,18.0,19.0,19.0,19.0,19.0,19.0,19.0,19.0
+VNM,Rural,Population using at least basic sanitation services (%),44.0,46.0,48.0,50.0,52.0,53.0,55.0,57.0,59.0,61.0,63.0,64.0,66.0,68.0,70.0,72.0
+VNM,Urban,Population using at least basic sanitation services (%),82.0,83.0,83.0,84.0,85.0,85.0,86.0,86.0,87.0,87.0,88.0,89.0,89.0,90.0,90.0,91.0
+VNM,Total,Population using at least basic sanitation services (%),53.0,55.0,57.0,59.0,60.0,62.0,64.0,65.0,67.0,69.0,70.0,72.0,74.0,75.0,77.0,78.0
+VNM,Rural,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+VNM,Urban,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+VNM,Total,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+YEM,Rural,Population using at least basic sanitation services (%),26.0,26.0,26.0,27.0,29.0,30.0,31.0,33.0,34.0,36.0,37.0,38.0,40.0,41.0,42.0,44.0
+YEM,Urban,Population using at least basic sanitation services (%),84.0,84.0,84.0,84.0,85.0,85.0,86.0,86.0,87.0,87.0,88.0,88.0,89.0,89.0,89.0,90.0
+YEM,Total,Population using at least basic sanitation services (%),41.0,42.0,42.0,43.0,45.0,46.0,47.0,49.0,50.0,52.0,53.0,54.0,56.0,57.0,58.0,60.0
+YEM,Rural,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+YEM,Urban,Population using safely managed sanitation services (%),53.0,53.0,53.0,54.0,55.0,56.0,57.0,58.0,59.0,60.0,62.0,63.0,64.0,65.0,66.0,67.0
+YEM,Total,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+ZMB,Rural,Population using at least basic sanitation services (%),13.0,13.0,13.0,14.0,14.0,15.0,15.0,16.0,16.0,16.0,17.0,17.0,18.0,18.0,18.0,19.0
+ZMB,Urban,Population using at least basic sanitation services (%),51.0,51.0,51.0,51.0,50.0,50.0,50.0,50.0,50.0,50.0,50.0,50.0,49.0,49.0,49.0,49.0
+ZMB,Total,Population using at least basic sanitation services (%),26.0,26.0,27.0,27.0,27.0,28.0,28.0,28.0,29.0,29.0,29.0,30.0,30.0,30.0,31.0,31.0
+ZMB,Rural,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+ZMB,Urban,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+ZMB,Total,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+ZWE,Rural,Population using at least basic sanitation services (%),36.0,36.0,35.0,35.0,35.0,34.0,34.0,34.0,33.0,33.0,33.0,33.0,32.0,32.0,32.0,31.0
+ZWE,Urban,Population using at least basic sanitation services (%),54.0,54.0,54.0,54.0,54.0,54.0,54.0,54.0,54.0,54.0,54.0,54.0,54.0,54.0,54.0,54.0
+ZWE,Total,Population using at least basic sanitation services (%),42.0,42.0,42.0,41.0,41.0,41.0,41.0,41.0,40.0,40.0,40.0,40.0,39.0,39.0,39.0,39.0
+ZWE,Rural,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+ZWE,Urban,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,
+ZWE,Total,Population using safely managed sanitation services (%),,,,,,,,,,,,,,,,

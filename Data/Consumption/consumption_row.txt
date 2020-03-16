@@ -1,0 +1,615 @@
+National,All,Beef and Veal
+National,All,Beer
+National,All,Bread
+National,All,Butter and Margarine
+National,All,Cheese
+National,All,Clothing Material, Other Articles of Clothing and Clothing Accessories
+National,All,Coffee, Tea and Cocoa
+National,All,Dental Services
+National,All,Education
+National,All,Eggs and Egg-Based Products
+National,All,Fresh Milk
+National,All,Fresh or Chilled Fruit
+National,All,Fresh or Chilled Potatoes
+National,All,Fresh or Chilled Vegetables Other than Potatoes
+National,All,Fresh, Chilled or Frozen Fish and Seafood
+National,All,Frozen, Preserved or Processed Fruit and Fruit-based Product
+National,All,Frozen, Preserved or Processed Vegetables and Vegetable-based Product
+National,All,Garments
+National,All,Hospital Services
+National,All,Insurance
+National,All,Jams, Marmalades and Honey
+National,All,Lamb, Mutton and Goat
+National,All,Medical Services
+National,All,Narcotics
+National,All,Other Edible Oil and Fats
+National,All,Other Medical Products
+National,All,Paramedical Services
+National,All,Pasta Products
+National,All,Pharmaceuticals Products
+National,All,Pork
+National,All,Poultry
+National,All,Preserved Milk and Other Milk Products
+National,All,Preserved or Processed Fish and Seafood
+National,All,Rice
+National,All,Shoes and Other Footwear
+National,All,Spirits
+National,All,Sugar
+National,All,Therapeutic Appliances and Equipment
+National,All,Tobacco
+National,All,Water Utility 
+National,All,Wine
+National,Higher,Beef and Veal
+National,Higher,Beer
+National,Higher,Bread
+National,Higher,Butter and Margarine
+National,Higher,Cheese
+National,Higher,Clothing Material, Other Articles of Clothing and Clothing Accessories
+National,Higher,Coffee, Tea and Cocoa
+National,Higher,Dental Services
+National,Higher,Education
+National,Higher,Eggs and Egg-Based Products
+National,Higher,Fresh Milk
+National,Higher,Fresh or Chilled Fruit
+National,Higher,Fresh or Chilled Potatoes
+National,Higher,Fresh or Chilled Vegetables Other than Potatoes
+National,Higher,Fresh, Chilled or Frozen Fish and Seafood
+National,Higher,Frozen, Preserved or Processed Fruit and Fruit-based Product
+National,Higher,Frozen, Preserved or Processed Vegetables and Vegetable-based Product
+National,Higher,Garments
+National,Higher,Hospital Services
+National,Higher,Insurance
+National,Higher,Jams, Marmalades and Honey
+National,Higher,Lamb, Mutton and Goat
+National,Higher,Medical Services
+National,Higher,Narcotics
+National,Higher,Other Edible Oil and Fats
+National,Higher,Other Medical Products
+National,Higher,Paramedical Services
+National,Higher,Pasta Products
+National,Higher,Pharmaceuticals Products
+National,Higher,Pork
+National,Higher,Poultry
+National,Higher,Preserved Milk and Other Milk Products
+National,Higher,Preserved or Processed Fish and Seafood
+National,Higher,Rice
+National,Higher,Shoes and Other Footwear
+National,Higher,Spirits
+National,Higher,Sugar
+National,Higher,Therapeutic Appliances and Equipment
+National,Higher,Tobacco
+National,Higher,Water Utility 
+National,Higher,Wine
+National,Low,Beef and Veal
+National,Low,Beer
+National,Low,Bread
+National,Low,Butter and Margarine
+National,Low,Cheese
+National,Low,Clothing Material, Other Articles of Clothing and Clothing Accessories
+National,Low,Coffee, Tea and Cocoa
+National,Low,Dental Services
+National,Low,Education
+National,Low,Eggs and Egg-Based Products
+National,Low,Fresh Milk
+National,Low,Fresh or Chilled Fruit
+National,Low,Fresh or Chilled Potatoes
+National,Low,Fresh or Chilled Vegetables Other than Potatoes
+National,Low,Fresh, Chilled or Frozen Fish and Seafood
+National,Low,Frozen, Preserved or Processed Fruit and Fruit-based Product
+National,Low,Frozen, Preserved or Processed Vegetables and Vegetable-based Product
+National,Low,Garments
+National,Low,Hospital Services
+National,Low,Insurance
+National,Low,Jams, Marmalades and Honey
+National,Low,Lamb, Mutton and Goat
+National,Low,Medical Services
+National,Low,Narcotics
+National,Low,Other Edible Oil and Fats
+National,Low,Other Medical Products
+National,Low,Paramedical Services
+National,Low,Pasta Products
+National,Low,Pharmaceuticals Products
+National,Low,Pork
+National,Low,Poultry
+National,Low,Preserved Milk and Other Milk Products
+National,Low,Preserved or Processed Fish and Seafood
+National,Low,Rice
+National,Low,Shoes and Other Footwear
+National,Low,Spirits
+National,Low,Sugar
+National,Low,Therapeutic Appliances and Equipment
+National,Low,Tobacco
+National,Low,Water Utility 
+National,Low,Wine
+National,Lowest,Beef and Veal
+National,Lowest,Beer
+National,Lowest,Bread
+National,Lowest,Butter and Margarine
+National,Lowest,Cheese
+National,Lowest,Clothing Material, Other Articles of Clothing and Clothing Accessories
+National,Lowest,Coffee, Tea and Cocoa
+National,Lowest,Dental Services
+National,Lowest,Education
+National,Lowest,Eggs and Egg-Based Products
+National,Lowest,Fresh Milk
+National,Lowest,Fresh or Chilled Fruit
+National,Lowest,Fresh or Chilled Potatoes
+National,Lowest,Fresh or Chilled Vegetables Other than Potatoes
+National,Lowest,Fresh, Chilled or Frozen Fish and Seafood
+National,Lowest,Frozen, Preserved or Processed Fruit and Fruit-based Product
+National,Lowest,Frozen, Preserved or Processed Vegetables and Vegetable-based Product
+National,Lowest,Garments
+National,Lowest,Hospital Services
+National,Lowest,Insurance
+National,Lowest,Jams, Marmalades and Honey
+National,Lowest,Lamb, Mutton and Goat
+National,Lowest,Medical Services
+National,Lowest,Narcotics
+National,Lowest,Other Edible Oil and Fats
+National,Lowest,Other Medical Products
+National,Lowest,Paramedical Services
+National,Lowest,Pasta Products
+National,Lowest,Pharmaceuticals Products
+National,Lowest,Pork
+National,Lowest,Poultry
+National,Lowest,Preserved Milk and Other Milk Products
+National,Lowest,Preserved or Processed Fish and Seafood
+National,Lowest,Rice
+National,Lowest,Shoes and Other Footwear
+National,Lowest,Spirits
+National,Lowest,Sugar
+National,Lowest,Therapeutic Appliances and Equipment
+National,Lowest,Tobacco
+National,Lowest,Water Utility 
+National,Lowest,Wine
+National,Middle,Beef and Veal
+National,Middle,Beer
+National,Middle,Bread
+National,Middle,Butter and Margarine
+National,Middle,Cheese
+National,Middle,Clothing Material, Other Articles of Clothing and Clothing Accessories
+National,Middle,Coffee, Tea and Cocoa
+National,Middle,Dental Services
+National,Middle,Education
+National,Middle,Eggs and Egg-Based Products
+National,Middle,Fresh Milk
+National,Middle,Fresh or Chilled Fruit
+National,Middle,Fresh or Chilled Potatoes
+National,Middle,Fresh or Chilled Vegetables Other than Potatoes
+National,Middle,Fresh, Chilled or Frozen Fish and Seafood
+National,Middle,Frozen, Preserved or Processed Fruit and Fruit-based Product
+National,Middle,Frozen, Preserved or Processed Vegetables and Vegetable-based Product
+National,Middle,Garments
+National,Middle,Hospital Services
+National,Middle,Insurance
+National,Middle,Jams, Marmalades and Honey
+National,Middle,Lamb, Mutton and Goat
+National,Middle,Medical Services
+National,Middle,Narcotics
+National,Middle,Other Edible Oil and Fats
+National,Middle,Other Medical Products
+National,Middle,Paramedical Services
+National,Middle,Pasta Products
+National,Middle,Pharmaceuticals Products
+National,Middle,Pork
+National,Middle,Poultry
+National,Middle,Preserved Milk and Other Milk Products
+National,Middle,Preserved or Processed Fish and Seafood
+National,Middle,Rice
+National,Middle,Shoes and Other Footwear
+National,Middle,Spirits
+National,Middle,Sugar
+National,Middle,Therapeutic Appliances and Equipment
+National,Middle,Tobacco
+National,Middle,Water Utility 
+National,Middle,Wine
+Rural,All,Beef and Veal
+Rural,All,Beer
+Rural,All,Bread
+Rural,All,Butter and Margarine
+Rural,All,Cheese
+Rural,All,Clothing Material, Other Articles of Clothing and Clothing Accessories
+Rural,All,Coffee, Tea and Cocoa
+Rural,All,Dental Services
+Rural,All,Education
+Rural,All,Eggs and Egg-Based Products
+Rural,All,Fresh Milk
+Rural,All,Fresh or Chilled Fruit
+Rural,All,Fresh or Chilled Potatoes
+Rural,All,Fresh or Chilled Vegetables Other than Potatoes
+Rural,All,Fresh, Chilled or Frozen Fish and Seafood
+Rural,All,Frozen, Preserved or Processed Fruit and Fruit-based Product
+Rural,All,Frozen, Preserved or Processed Vegetables and Vegetable-based Product
+Rural,All,Garments
+Rural,All,Hospital Services
+Rural,All,Insurance
+Rural,All,Jams, Marmalades and Honey
+Rural,All,Lamb, Mutton and Goat
+Rural,All,Medical Services
+Rural,All,Narcotics
+Rural,All,Other Edible Oil and Fats
+Rural,All,Other Medical Products
+Rural,All,Paramedical Services
+Rural,All,Pasta Products
+Rural,All,Pharmaceuticals Products
+Rural,All,Pork
+Rural,All,Poultry
+Rural,All,Preserved Milk and Other Milk Products
+Rural,All,Preserved or Processed Fish and Seafood
+Rural,All,Rice
+Rural,All,Shoes and Other Footwear
+Rural,All,Spirits
+Rural,All,Sugar
+Rural,All,Therapeutic Appliances and Equipment
+Rural,All,Tobacco
+Rural,All,Water Utility 
+Rural,All,Wine
+Rural,Higher,Beef and Veal
+Rural,Higher,Beer
+Rural,Higher,Bread
+Rural,Higher,Butter and Margarine
+Rural,Higher,Cheese
+Rural,Higher,Clothing Material, Other Articles of Clothing and Clothing Accessories
+Rural,Higher,Coffee, Tea and Cocoa
+Rural,Higher,Dental Services
+Rural,Higher,Education
+Rural,Higher,Eggs and Egg-Based Products
+Rural,Higher,Fresh Milk
+Rural,Higher,Fresh or Chilled Fruit
+Rural,Higher,Fresh or Chilled Potatoes
+Rural,Higher,Fresh or Chilled Vegetables Other than Potatoes
+Rural,Higher,Fresh, Chilled or Frozen Fish and Seafood
+Rural,Higher,Frozen, Preserved or Processed Fruit and Fruit-based Product
+Rural,Higher,Frozen, Preserved or Processed Vegetables and Vegetable-based Product
+Rural,Higher,Garments
+Rural,Higher,Hospital Services
+Rural,Higher,Insurance
+Rural,Higher,Jams, Marmalades and Honey
+Rural,Higher,Lamb, Mutton and Goat
+Rural,Higher,Medical Services
+Rural,Higher,Narcotics
+Rural,Higher,Other Edible Oil and Fats
+Rural,Higher,Other Medical Products
+Rural,Higher,Paramedical Services
+Rural,Higher,Pasta Products
+Rural,Higher,Pharmaceuticals Products
+Rural,Higher,Pork
+Rural,Higher,Poultry
+Rural,Higher,Preserved Milk and Other Milk Products
+Rural,Higher,Preserved or Processed Fish and Seafood
+Rural,Higher,Rice
+Rural,Higher,Shoes and Other Footwear
+Rural,Higher,Spirits
+Rural,Higher,Sugar
+Rural,Higher,Therapeutic Appliances and Equipment
+Rural,Higher,Tobacco
+Rural,Higher,Water Utility 
+Rural,Higher,Wine
+Rural,Low,Beef and Veal
+Rural,Low,Beer
+Rural,Low,Bread
+Rural,Low,Butter and Margarine
+Rural,Low,Cheese
+Rural,Low,Clothing Material, Other Articles of Clothing and Clothing Accessories
+Rural,Low,Coffee, Tea and Cocoa
+Rural,Low,Dental Services
+Rural,Low,Education
+Rural,Low,Eggs and Egg-Based Products
+Rural,Low,Fresh Milk
+Rural,Low,Fresh or Chilled Fruit
+Rural,Low,Fresh or Chilled Potatoes
+Rural,Low,Fresh or Chilled Vegetables Other than Potatoes
+Rural,Low,Fresh, Chilled or Frozen Fish and Seafood
+Rural,Low,Frozen, Preserved or Processed Fruit and Fruit-based Product
+Rural,Low,Frozen, Preserved or Processed Vegetables and Vegetable-based Product
+Rural,Low,Garments
+Rural,Low,Hospital Services
+Rural,Low,Insurance
+Rural,Low,Jams, Marmalades and Honey
+Rural,Low,Lamb, Mutton and Goat
+Rural,Low,Medical Services
+Rural,Low,Narcotics
+Rural,Low,Other Edible Oil and Fats
+Rural,Low,Other Medical Products
+Rural,Low,Paramedical Services
+Rural,Low,Pasta Products
+Rural,Low,Pharmaceuticals Products
+Rural,Low,Pork
+Rural,Low,Poultry
+Rural,Low,Preserved Milk and Other Milk Products
+Rural,Low,Preserved or Processed Fish and Seafood
+Rural,Low,Rice
+Rural,Low,Shoes and Other Footwear
+Rural,Low,Spirits
+Rural,Low,Sugar
+Rural,Low,Therapeutic Appliances and Equipment
+Rural,Low,Tobacco
+Rural,Low,Water Utility 
+Rural,Low,Wine
+Rural,Lowest,Beef and Veal
+Rural,Lowest,Beer
+Rural,Lowest,Bread
+Rural,Lowest,Butter and Margarine
+Rural,Lowest,Cheese
+Rural,Lowest,Clothing Material, Other Articles of Clothing and Clothing Accessories
+Rural,Lowest,Coffee, Tea and Cocoa
+Rural,Lowest,Dental Services
+Rural,Lowest,Education
+Rural,Lowest,Eggs and Egg-Based Products
+Rural,Lowest,Fresh Milk
+Rural,Lowest,Fresh or Chilled Fruit
+Rural,Lowest,Fresh or Chilled Potatoes
+Rural,Lowest,Fresh or Chilled Vegetables Other than Potatoes
+Rural,Lowest,Fresh, Chilled or Frozen Fish and Seafood
+Rural,Lowest,Frozen, Preserved or Processed Fruit and Fruit-based Product
+Rural,Lowest,Frozen, Preserved or Processed Vegetables and Vegetable-based Product
+Rural,Lowest,Garments
+Rural,Lowest,Hospital Services
+Rural,Lowest,Insurance
+Rural,Lowest,Jams, Marmalades and Honey
+Rural,Lowest,Lamb, Mutton and Goat
+Rural,Lowest,Medical Services
+Rural,Lowest,Narcotics
+Rural,Lowest,Other Edible Oil and Fats
+Rural,Lowest,Other Medical Products
+Rural,Lowest,Paramedical Services
+Rural,Lowest,Pasta Products
+Rural,Lowest,Pharmaceuticals Products
+Rural,Lowest,Pork
+Rural,Lowest,Poultry
+Rural,Lowest,Preserved Milk and Other Milk Products
+Rural,Lowest,Preserved or Processed Fish and Seafood
+Rural,Lowest,Rice
+Rural,Lowest,Shoes and Other Footwear
+Rural,Lowest,Spirits
+Rural,Lowest,Sugar
+Rural,Lowest,Therapeutic Appliances and Equipment
+Rural,Lowest,Tobacco
+Rural,Lowest,Water Utility 
+Rural,Lowest,Wine
+Rural,Middle,Beef and Veal
+Rural,Middle,Beer
+Rural,Middle,Bread
+Rural,Middle,Butter and Margarine
+Rural,Middle,Cheese
+Rural,Middle,Clothing Material, Other Articles of Clothing and Clothing Accessories
+Rural,Middle,Coffee, Tea and Cocoa
+Rural,Middle,Dental Services
+Rural,Middle,Education
+Rural,Middle,Eggs and Egg-Based Products
+Rural,Middle,Fresh Milk
+Rural,Middle,Fresh or Chilled Fruit
+Rural,Middle,Fresh or Chilled Potatoes
+Rural,Middle,Fresh or Chilled Vegetables Other than Potatoes
+Rural,Middle,Fresh, Chilled or Frozen Fish and Seafood
+Rural,Middle,Frozen, Preserved or Processed Fruit and Fruit-based Product
+Rural,Middle,Frozen, Preserved or Processed Vegetables and Vegetable-based Product
+Rural,Middle,Garments
+Rural,Middle,Hospital Services
+Rural,Middle,Insurance
+Rural,Middle,Jams, Marmalades and Honey
+Rural,Middle,Lamb, Mutton and Goat
+Rural,Middle,Medical Services
+Rural,Middle,Narcotics
+Rural,Middle,Other Edible Oil and Fats
+Rural,Middle,Other Medical Products
+Rural,Middle,Paramedical Services
+Rural,Middle,Pasta Products
+Rural,Middle,Pharmaceuticals Products
+Rural,Middle,Pork
+Rural,Middle,Poultry
+Rural,Middle,Preserved Milk and Other Milk Products
+Rural,Middle,Preserved or Processed Fish and Seafood
+Rural,Middle,Rice
+Rural,Middle,Shoes and Other Footwear
+Rural,Middle,Spirits
+Rural,Middle,Sugar
+Rural,Middle,Therapeutic Appliances and Equipment
+Rural,Middle,Tobacco
+Rural,Middle,Water Utility 
+Rural,Middle,Wine
+Urban,All,Beef and Veal
+Urban,All,Beer
+Urban,All,Bread
+Urban,All,Butter and Margarine
+Urban,All,Cheese
+Urban,All,Clothing Material, Other Articles of Clothing and Clothing Accessories
+Urban,All,Coffee, Tea and Cocoa
+Urban,All,Dental Services
+Urban,All,Education
+Urban,All,Eggs and Egg-Based Products
+Urban,All,Fresh Milk
+Urban,All,Fresh or Chilled Fruit
+Urban,All,Fresh or Chilled Potatoes
+Urban,All,Fresh or Chilled Vegetables Other than Potatoes
+Urban,All,Fresh, Chilled or Frozen Fish and Seafood
+Urban,All,Frozen, Preserved or Processed Fruit and Fruit-based Product
+Urban,All,Frozen, Preserved or Processed Vegetables and Vegetable-based Product
+Urban,All,Garments
+Urban,All,Hospital Services
+Urban,All,Insurance
+Urban,All,Jams, Marmalades and Honey
+Urban,All,Lamb, Mutton and Goat
+Urban,All,Medical Services
+Urban,All,Narcotics
+Urban,All,Other Edible Oil and Fats
+Urban,All,Other Medical Products
+Urban,All,Paramedical Services
+Urban,All,Pasta Products
+Urban,All,Pharmaceuticals Products
+Urban,All,Pork
+Urban,All,Poultry
+Urban,All,Preserved Milk and Other Milk Products
+Urban,All,Preserved or Processed Fish and Seafood
+Urban,All,Rice
+Urban,All,Shoes and Other Footwear
+Urban,All,Spirits
+Urban,All,Sugar
+Urban,All,Therapeutic Appliances and Equipment
+Urban,All,Tobacco
+Urban,All,Water Utility 
+Urban,All,Wine
+Urban,Higher,Beef and Veal
+Urban,Higher,Beer
+Urban,Higher,Bread
+Urban,Higher,Butter and Margarine
+Urban,Higher,Cheese
+Urban,Higher,Clothing Material, Other Articles of Clothing and Clothing Accessories
+Urban,Higher,Coffee, Tea and Cocoa
+Urban,Higher,Dental Services
+Urban,Higher,Education
+Urban,Higher,Eggs and Egg-Based Products
+Urban,Higher,Fresh Milk
+Urban,Higher,Fresh or Chilled Fruit
+Urban,Higher,Fresh or Chilled Potatoes
+Urban,Higher,Fresh or Chilled Vegetables Other than Potatoes
+Urban,Higher,Fresh, Chilled or Frozen Fish and Seafood
+Urban,Higher,Frozen, Preserved or Processed Fruit and Fruit-based Product
+Urban,Higher,Frozen, Preserved or Processed Vegetables and Vegetable-based Product
+Urban,Higher,Garments
+Urban,Higher,Hospital Services
+Urban,Higher,Insurance
+Urban,Higher,Jams, Marmalades and Honey
+Urban,Higher,Lamb, Mutton and Goat
+Urban,Higher,Medical Services
+Urban,Higher,Narcotics
+Urban,Higher,Other Edible Oil and Fats
+Urban,Higher,Other Medical Products
+Urban,Higher,Paramedical Services
+Urban,Higher,Pasta Products
+Urban,Higher,Pharmaceuticals Products
+Urban,Higher,Pork
+Urban,Higher,Poultry
+Urban,Higher,Preserved Milk and Other Milk Products
+Urban,Higher,Preserved or Processed Fish and Seafood
+Urban,Higher,Rice
+Urban,Higher,Shoes and Other Footwear
+Urban,Higher,Spirits
+Urban,Higher,Sugar
+Urban,Higher,Therapeutic Appliances and Equipment
+Urban,Higher,Tobacco
+Urban,Higher,Water Utility 
+Urban,Higher,Wine
+Urban,Low,Beef and Veal
+Urban,Low,Beer
+Urban,Low,Bread
+Urban,Low,Butter and Margarine
+Urban,Low,Cheese
+Urban,Low,Clothing Material, Other Articles of Clothing and Clothing Accessories
+Urban,Low,Coffee, Tea and Cocoa
+Urban,Low,Dental Services
+Urban,Low,Education
+Urban,Low,Eggs and Egg-Based Products
+Urban,Low,Fresh Milk
+Urban,Low,Fresh or Chilled Fruit
+Urban,Low,Fresh or Chilled Potatoes
+Urban,Low,Fresh or Chilled Vegetables Other than Potatoes
+Urban,Low,Fresh, Chilled or Frozen Fish and Seafood
+Urban,Low,Frozen, Preserved or Processed Fruit and Fruit-based Product
+Urban,Low,Frozen, Preserved or Processed Vegetables and Vegetable-based Product
+Urban,Low,Garments
+Urban,Low,Hospital Services
+Urban,Low,Insurance
+Urban,Low,Jams, Marmalades and Honey
+Urban,Low,Lamb, Mutton and Goat
+Urban,Low,Medical Services
+Urban,Low,Narcotics
+Urban,Low,Other Edible Oil and Fats
+Urban,Low,Other Medical Products
+Urban,Low,Paramedical Services
+Urban,Low,Pasta Products
+Urban,Low,Pharmaceuticals Products
+Urban,Low,Pork
+Urban,Low,Poultry
+Urban,Low,Preserved Milk and Other Milk Products
+Urban,Low,Preserved or Processed Fish and Seafood
+Urban,Low,Rice
+Urban,Low,Shoes and Other Footwear
+Urban,Low,Spirits
+Urban,Low,Sugar
+Urban,Low,Therapeutic Appliances and Equipment
+Urban,Low,Tobacco
+Urban,Low,Water Utility 
+Urban,Low,Wine
+Urban,Lowest,Beef and Veal
+Urban,Lowest,Beer
+Urban,Lowest,Bread
+Urban,Lowest,Butter and Margarine
+Urban,Lowest,Cheese
+Urban,Lowest,Clothing Material, Other Articles of Clothing and Clothing Accessories
+Urban,Lowest,Coffee, Tea and Cocoa
+Urban,Lowest,Dental Services
+Urban,Lowest,Education
+Urban,Lowest,Eggs and Egg-Based Products
+Urban,Lowest,Fresh Milk
+Urban,Lowest,Fresh or Chilled Fruit
+Urban,Lowest,Fresh or Chilled Potatoes
+Urban,Lowest,Fresh or Chilled Vegetables Other than Potatoes
+Urban,Lowest,Fresh, Chilled or Frozen Fish and Seafood
+Urban,Lowest,Frozen, Preserved or Processed Fruit and Fruit-based Product
+Urban,Lowest,Frozen, Preserved or Processed Vegetables and Vegetable-based Product
+Urban,Lowest,Garments
+Urban,Lowest,Hospital Services
+Urban,Lowest,Insurance
+Urban,Lowest,Jams, Marmalades and Honey
+Urban,Lowest,Lamb, Mutton and Goat
+Urban,Lowest,Medical Services
+Urban,Lowest,Narcotics
+Urban,Lowest,Other Edible Oil and Fats
+Urban,Lowest,Other Medical Products
+Urban,Lowest,Paramedical Services
+Urban,Lowest,Pasta Products
+Urban,Lowest,Pharmaceuticals Products
+Urban,Lowest,Pork
+Urban,Lowest,Poultry
+Urban,Lowest,Preserved Milk and Other Milk Products
+Urban,Lowest,Preserved or Processed Fish and Seafood
+Urban,Lowest,Rice
+Urban,Lowest,Shoes and Other Footwear
+Urban,Lowest,Spirits
+Urban,Lowest,Sugar
+Urban,Lowest,Therapeutic Appliances and Equipment
+Urban,Lowest,Tobacco
+Urban,Lowest,Water Utility 
+Urban,Lowest,Wine
+Urban,Middle,Beef and Veal
+Urban,Middle,Beer
+Urban,Middle,Bread
+Urban,Middle,Butter and Margarine
+Urban,Middle,Cheese
+Urban,Middle,Clothing Material, Other Articles of Clothing and Clothing Accessories
+Urban,Middle,Coffee, Tea and Cocoa
+Urban,Middle,Dental Services
+Urban,Middle,Education
+Urban,Middle,Eggs and Egg-Based Products
+Urban,Middle,Fresh Milk
+Urban,Middle,Fresh or Chilled Fruit
+Urban,Middle,Fresh or Chilled Potatoes
+Urban,Middle,Fresh or Chilled Vegetables Other than Potatoes
+Urban,Middle,Fresh, Chilled or Frozen Fish and Seafood
+Urban,Middle,Frozen, Preserved or Processed Fruit and Fruit-based Product
+Urban,Middle,Frozen, Preserved or Processed Vegetables and Vegetable-based Product
+Urban,Middle,Garments
+Urban,Middle,Hospital Services
+Urban,Middle,Insurance
+Urban,Middle,Jams, Marmalades and Honey
+Urban,Middle,Lamb, Mutton and Goat
+Urban,Middle,Medical Services
+Urban,Middle,Narcotics
+Urban,Middle,Other Edible Oil and Fats
+Urban,Middle,Other Medical Products
+Urban,Middle,Paramedical Services
+Urban,Middle,Pasta Products
+Urban,Middle,Pharmaceuticals Products
+Urban,Middle,Pork
+Urban,Middle,Poultry
+Urban,Middle,Preserved Milk and Other Milk Products
+Urban,Middle,Preserved or Processed Fish and Seafood
+Urban,Middle,Rice
+Urban,Middle,Shoes and Other Footwear
+Urban,Middle,Spirits
+Urban,Middle,Sugar
+Urban,Middle,Therapeutic Appliances and Equipment
+Urban,Middle,Tobacco
+Urban,Middle,Water Utility 
+Urban,Middle,Wine
